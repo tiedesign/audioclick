@@ -1,0 +1,11 @@
+Dominio e Hospedagem www.audioclickrs.com.br
+
+Painel de Controle: http://www.uolhost.com.br/
+Usuario: audioclickrs@uol.com.br
+Senha: tati1010
+
+
+FTP: ftp.audioclickrs.com.br
+Usuario: audioclickr
+senha: tati1010
+

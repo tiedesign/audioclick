@@ -1,0 +1,441 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #000;
+    margin: 75px 0 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+}
+
+a {
+    color: #FFD600;
+    text-decoration: none;
+}
+
+a:focus, a:hover {
+    color: #FFE401;
+    text-decoration: underline;
+}
+
+section {
+    padding: 36px 0;
+}
+
+#cabecalho {
+    border-top: 3px solid #FFE401;
+	padding: 10px 0;
+    width: 100%;
+    background: #fff;
+    z-index: 9999;
+    top: 0px;
+    margin: 0px;
+    position: fixed;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    background-color: #fff;
+    color: #000;
+    border-bottom: 3px solid #FFE401;
+    padding-bottom: 4px;
+    border-radius: 0px;
+}
+
+.nav > li > a {
+    color: #000;
+    text-decoration: none;
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: #fff;
+    color: #FFE401;
+}
+
+
+.bg-yellow {
+    background:#FFE401;
+}
+
+.ft-yellow {
+    color:#FFE401;
+}
+
+#slider {
+	height: 283px;
+}
+
+.slider-messages {
+    color: #000;
+    font-weight: 900;
+    height: 283px;
+    margin: -283px 0 0;
+    padding: 60px 0 0;
+    position: relative;
+}
+
+.vegas-timer-progress {
+	background:#FFE401;
+}
+
+#intro .intro-content {
+	margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+
+#intro .intro-content img {
+    padding: 24px 52px;
+}
+
+#intro {
+    padding: 12px 0;
+}
+
+#servicos .servicos-item {
+    margin: 12px 0;
+}
+
+.icon-container,.icon-container-mini {
+    background:#FFD600; 
+    text-align: center;
+    margin: 0px 24px 0 0;
+}
+
+.icon-container {
+    height: 80px;
+    width: 100px;
+}
+
+.icon-container img {
+    height: 64px;
+    margin: 8px 0;
+}
+
+.icon-container-mini {
+    height: 48px;
+    width: 48px;
+}
+
+.icon-container-mini img {
+    height: 36px;
+    margin: 6px 0;
+}
+
+#slogan {
+	font-size: 4em;
+	color: #fff;
+	font-family: 'Stalemate', cursive;
+	font-weight: bold;
+    letter-spacing: 3px;
+	text-shadow: 0px 1px 1px #999;
+}
+
+#slogan .quote {
+	font-size: 1.5em;
+	color: #000;
+}
+
+.page-header {
+    border-bottom: 3px solid #FFE401;
+    display: table;
+    margin: 24px auto;
+    padding-bottom: 9px;
+    text-align: center;
+}
+
+.bg-yellow .page-header {
+    border-bottom: 3px solid #fff;
+}
+
+.btn {
+    box-shadow: 0 1px 10px #ddd;
+    text-shadow: 1px 1px 3px #666;
+    font-weight: 700;
+    padding: 6px 36px;
+}
+
+.btn-warning {
+    background-color: #FFE401;
+    border-color: #FFD600;
+    color: #fff;
+}
+
+.btn-warning.active, .btn-warning.focus, .btn-warning:active, .btn-warning:focus, .btn-warning:hover, .open > .dropdown-toggle.btn-warning {
+    background-color: #FFD600;
+    border-color: #FFD600;
+}
+
+.quadro {
+    border-width: 7px;
+    border-style: solid;
+    border-color: #666 #666 #333 #333;
+}
+
+#protese-pq .icon-container {
+	margin: 0 auto;
+	border:3px solid #fff;
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	padding: 3.5em;
+}
+
+#proteses .thumbnail {
+    border: 0px;
+}
+
+#proteses .logo-protese {
+    margin: 0 6px;
+    cursor: pointer;
+}
+
+#proteses .title {
+    color: #000;
+    font-weight: 700;
+    font-size: 1.6em;
+}
+
+#proteses .subtitle {
+    color: #FFD600;
+    font-weight: 400;
+    font-size: 1.7em;
+}
+
+#proteses .col-lg-9 {
+    border-left: 1px solid #eee;
+}
+
+#proteses ul {
+    list-style: none;
+    margin: 64px 0;
+}
+
+#proteses li {
+    list-style: none;
+    font-weight: 400;
+    font-size: 1.4em;
+    line-height: 20px;
+    margin: 0px 0px 12px;
+}
+
+.borda {
+    border: 3px solid #eee;
+}
+
+.borda-selecionada {
+    border: 3px solid #FFE401;
+}
+
+#isotope-container {
+    width: 600px;
+    margin: 20px auto 0;
+}
+
+#convenios {
+    text-align: center;
+}
+
+#convenios .thumbnail {
+    border-radius: 0px;
+    border: 1px solid #eee;
+    padding: 12px;
+}
+
+#convenios a {
+    display: block;
+    height: 92px;
+    padding: 24px 0;
+    background-color: #FFE401;
+    border-color: #FFD600;
+    color: #fff;
+    text-shadow: 1px 1px 3px #666;
+    font-weight: 700;
+}
+
+#localizacao {
+	height: 410px;
+}
+
+#mapa {
+    width: 100%;
+    height: 500px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+#rodape .page-header {
+    border: none;
+}
+
+.social-icons .social-icon {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.05) !important;
+    border-radius: 3px;
+    display: inline-block;
+    float: none;
+    margin: 0 5px 30px 0;
+}
+
+#profissionais .carousel {
+    margin: 0 auto;
+    width: 250px;
+}
+
+#missao-visao-valores {
+    min-height: 200px;
+    background: transparent;
+    padding: 36px;
+}
+
+#missao-visao-valores h3 {
+    color: #FFE401;
+    text-shadow: 1px 1px 1px #000;
+}
+
+#missao-visao-valores .item {
+    background: rgba(255,255,255,0.5);
+    height: 150px;
+}
+
+#convenios-lista .logo {
+    height:150px;
+    margin: 0px;
+}
+
+#convenios-lista .sulamerica {
+    background: url("../img/convenios/logo-sulamerica.png") no-repeat 50% 50% #fff;
+}
+#convenios-lista .sulmed {
+    background: url("../img/convenios/logo-sulmed.png") no-repeat 50% 50% #23214E;
+}
+#convenios-lista .bradesco {
+    background: url("../img/convenios/logo-bradesco.png") no-repeat 50% 50% #C8152A;
+}
+#convenios-lista .socialsaude {
+    background: url("../img/convenios/logo-social-saude.png") no-repeat 50% 50% #12326D;
+}
+#convenios-lista .sogipa {
+    background: url("../img/convenios/logo-sogipa.png") no-repeat 50% 50% #010101;
+}
+
+#responsive-debug {
+    background: transparent;
+    bottom: 0;
+    height: 14px;
+    position: fixed;
+    right: 0;
+    width: 14px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.navbar {
+    border: 1px solid #eee;
+    min-height: 70px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #fff;
+    color: #ffd600;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    background-color: #FFD600;
+    color: #000;
+}
+
+.navbar-nav > li > a {
+    line-height: 42px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ffd600;
+    margin-top: 16px;
+}
+
+.navbar-toggle {
+    background-color: #ffe401;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #ffd600;
+}
+
+.navbar-header {
+    height: 72px;
+}
+
+.navbar .container {
+    padding: 0px 5px;
+}
+
+.nav > li > a {
+    padding: 10px;
+}
+
+.gray{
+    background: #eee;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+input,textarea {
+    display: block;
+    width: 100%;
+    font-weight: 700;
+    font-size: 1.5em;
+    color: #000;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 3px 0;
+}
+
+input:active,input:focus {
+    border-bottom: 1px solid #ffd600;
+    color: #ffd600;
+}
+
+textarea {
+    border: 1px solid #ccc;
+    padding: 3px 6px;
+}
+
+textarea:active,textarea:focus {
+    border: 1px solid #ffd600;
+    color: #ffd600;
+}
+
+label {
+    color: #ccc;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+fieldset legend {
+    color: #ffd600;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-align: center;
+    border: none;
+}
+
+ul li {
+    list-style-image: url('../img/tick.png');
+    line-height: 30px;
+}
