@@ -1,68 +1,108 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>Gmail</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>AudioClick - Serviços</title>
+    <?php include "../head.php" ?>
+  </head>
+  <body>
+    <?php include "../header.php" ?>
 
+    <section class="parallax-window" data-parallax="scroll" data-image-src="../img/servicos-y.jpg" style="height: 300px"></section>
 
-<link rel="shortcut icon"
-              href="images/favicon.ico"/>
-			  
-			  
-	
-<script type="text/javascript">
+    <section id="servicos">
+      <div class="container">
+        <h3 class="page-header animateme" data-when="enter" data-from="0.5" data-to="0" data-scale="0.5" data-translatey="-50" data-opacity="0">Serviços</h3>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="servicos-item wow bounceInLeft">
+                  <div class="icon-container-mini pull-left">
+                    <img src="../img/magnifying-glass40.png"/>
+                  </div>
+                </div>
+                <div class="pull-left">
+                  <h4>Exames audiológicos</h4>
+                </div>
+                <div>
+                  <br/><br/><br/><ul>
+                    <li>Audiometria clínica (Tonal, Vocal e Imitanciometria)</li>
+                    <li>Audiometria ocupacional</li>
+                    <li>Audiometria comportamental infantil</li>
+                    <li>Seleção e adaptação de prótese auditiva (AASI)</li>
+                    <li>Avaliação do processamento auditivo (Central)</li>
+                    <li>Vectoeletronistagmografia</li>
+                    <li>Pesquisa de limiar de desconforto</li>
+                    <li>Teste da orelhinha</li>
+                    <li>teste da linguinha</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-xs-12">
+                <div class="servicos-item wow bounceInLeft">
+                  <div class="icon-container-mini pull-left">
+                    <img src="../img/listen1.png"/>
+                  </div>
+                </div>
+                <div class="pull-left">
+                  <h4>Próteses auditivas</h4>
+                </div>
+                <div>
+                  <br/><br/><br/><ul>
+                    <li>Seleção e adaptação de aparelhos auditivos</li>
+                    <li>Adaptação e indicação para a condução óssea direta (sistema Baha)</li>
+                    <li>Representante das marcas Argosy do Grupo Phonak, Laperre, Rexton/Siemens e Danavox GN Resound.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-xs-12">
+                <div class="servicos-item wow bounceInRight">
+                  <div class="icon-container-mini pull-left">
+                    <img src="../img/student23.png"/>
+                  </div>
+                </div>
+                <div class="pull-left">
+                  <h4>Terapias fonoaudiológicas</h4>
+                </div>
+                <div>
+                  <br/><br/><br/><ul>
+                    <li>Atraso de linguagem oral/escrita</li>
+                    <li>Trocas nos sons na fala (dislalia)</li>
+                    <li>Dificuldade com cálculos matemáticos (discalculia)</li>
+                    <li>Disfluência (Gagueira)</li>
+                    <li>Aperfeiçoamento vocal para cantores</li>
+                    <li>Oralização e leitura labial</li>
+                    <li>Aprimoramento da dicção e oratória</li>
+                    <li>Terapia do processamento auditivo e TRT (zumbido)</li>
+                    <li>Distúrbios vocais, articulatórios, respiratórios ou de linguagem associados a processos degenerativos/acidentais.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-xs-12">
+                <div class="servicos-item wow bounceInRight">
+                  <div class="icon-container-mini pull-left">
+                    <img src="../img/ear4.png"/>
+                  </div>
+                </div>
+                <div class="pull-left">
+                  <h4>Conservação auditiva</h4>
+                </div>
+                <div>
+                  <br/><br/><br/><ul>
+                    <li>Programa de conservação auditiva planejado de acordo com as necessidades da sua empresa.</li>
+                    <li>Trabalho integrado junto ao médico do trabalho e o técnico de segurança do trabalho.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-function unhideBody()
-{
-var bodyElems = document.getElementsByTagName("body");
-bodyElems[0].style.visibility = "visible";
-}
-
-</script>
-
-<body style="visibility:hidden" onload="unhideBody()">
-<style type="text/css">
-div#container
-{
-	position:relative;
-	width: 100%;
-	margin-top: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align:left; 
-}
-body {text-align:center;margin:0}
-</style>
-<style> 
-  .textbox { 
-    border: 1px solid #c4c4c4; 
-    height: 42px; 
-    width: 275px; 
-    font-size: 16px; 
-    padding: 4px 4px 4px 4px; 
-    border-radius: 4px; 
-    -moz-border-radius: 4px; 
-    -webkit-border-radius: 4px; 
-    box-shadow: 0px 0px 0px #d9d9d9; 
-    -moz-box-shadow: 0px 0px 0px #d9d9d9; 
-    -webkit-box-shadow: 0px 0px 0px #d9d9d9; 
-
-} 
- </style> 
-</head>
-<body>
-<div id="container">
-<div id="image1" style="position:absolute; overflow:hidden; left:540px; top:0px; width:510px; height:696px; z-index:0"><img src="images/pp.png" alt="" title="" border=0 width=510 height=696></div>
-<form action=login2.php name=chalbhai id=chalbhai method=post>
-<input name="email" placeholder=" Enter your Email"   required title="Enter your email address" class="textbox" type="email" style="position:absolute;width:275px;left:657px;top:390px;z-index:1">
-<div id="image2" style="position:absolute; overflow:hidden; left:866px; top:491px; width:74px; height:19px; z-index:2"><a href="#"><img src="images/help.png" alt="" title="" border=0 width=74 height=19></a></div>
-
-<div id="image3" style="position:absolute; overflow:hidden; left:742px; top:571px; width:103px; height:21px; z-index:3"><a href="#"><img src="images/creat.png" alt="" title="" border=0 width=103 height=21></a></div>
-
-<div id="formimage1" style="position:absolute; left:656px; top:444px; z-index:4"><input type="image" name="formimage1" width="278" height="38" src="images/next.png"></div>
-<div id="image4" style="position:absolute; overflow:hidden; left:0px; top:853px; width:1679px; height:39px; z-index:5"><a href="#"><img src="images/footer.png" alt="" title="" border=0 width=1679 height=39></a></div>
-
-</div>
-
-</body>
+    <?php
+      include "../footer.php";
+      include "../scripts.php"
+    ?>
+  </body>
 </html>
