@@ -107,9 +107,9 @@ var mapstyle = [{
 
 function initMap() {
   if ($('#mapa').length) {
-    var latLng = new google.maps.LatLng(-30.045668, -51.207722);
+    var latLng = new google.maps.LatLng(-30.030069, -51.201773);
     var myOptions = {
-      zoom: 14,
+      zoom: 13,
       center: latLng,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: mapstyle,

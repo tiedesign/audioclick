@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:http://www.audioclick.com.br/site_map.xml

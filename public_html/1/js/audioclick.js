@@ -17,14 +17,10 @@ function initVegas() {
   });
 }
 
-function initIsotope(ft) {  
-  $("#isotope-container").isotope({
+function initIsotope() {  
+  $("#container").isotope({
     itemSelector: '.item',
-    filter: ft,
-    resizable: false,
-    masonry: {
-      columnWidth: 200
-    }
+    filter: '.argosy'
   });
 }
 
@@ -107,29 +103,29 @@ var mapstyle = [{
 
 function initMap() {
   if ($('#mapa').length) {
-    var latLng = new google.maps.LatLng(-30.045668, -51.207722);
     var myOptions = {
-      zoom: 14,
-      center: latLng,
+      zoom: 13,
+      center: new google.maps.LatLng(-30.026968,-51.206417),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: mapstyle,
       scrollwheel: false,
     };
     var map = new google.maps.Map(document.getElementById('mapa'), myOptions);
 
-    var mapMarkerIcon = "http://www.audioclick.com.br/img/pin.png";
+    var mapMarkerIcon = "/web-assets/img/mapmarker.png";
     var marker = new google.maps.Marker({
-      position: latLng,
-      icon: mapMarkerIcon,
-      title: 'AudioClick',
-      visible: true
+      position: new google.maps.LatLng(-30.026968,-51.206417),
+      map: map,
+      icon: mapMarkerIcon
     });
-    marker.setMap(map);
   }  
 }
 
 function prosthesisFilter(el, company) {
   $(".logo-protese").removeClass("borda-selecionada");
   $(el).addClass("borda-selecionada");
-  initIsotope(company);
+  $("#container").isotope({
+    itemSelector: '.item',
+    filter: company
+  });
 }

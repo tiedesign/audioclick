@@ -100,7 +100,8 @@
 
 
 
-    <div class="wow slideInUp vegas-container" id="slider" style="height: 283px; visibility: visible; animation-name: slideInUp;"></div>
+    <div class="wow slideInUp vegas-container" id="slider" style="height: 283px; visibility: visible; animation-name: slideInUp;">
+    </div>
 
     <div class="slider-messages hidden" id="slider-message-1">
 
@@ -346,8 +347,6 @@
 
               <img onclick="prosthesisFilter(this, '.rexton')" class="logo-protese borda" alt="REXTON" src="http://www.audioclick.com.br/img/proteses/logo/rexton-logo.png">
 
-              <img onclick="prosthesisFilter(this, '.microtech')" class="logo-protese borda" alt="Microtech" src="http://www.audioclick.com.br/img/proteses/logo/microtech-logo.png">
-
             </div>
 
           </div>
@@ -371,8 +370,6 @@
                 <div class="item laperre" style="position: absolute; display: none;"><img src="http://www.audioclick.com.br/img/proteses/home-laperre.jpg"></div>
 
                 <div class="item rexton" style="position: absolute; display: none;"><img src="http://www.audioclick.com.br/img/proteses/home-rexton.jpg"></div>
-
-                <div class="item microtech" style="position: absolute; display: none;"><img src="http://www.audioclick.com.br/img/proteses/home-microtech.jpg"></div>
 
               </div>
 
@@ -622,7 +619,7 @@
 
 
 
-<section id="responsive-debug hidden">
+<section id="responsive-debug">
 
   <div class="visible-lg">lg</div>
 
@@ -666,7 +663,7 @@
 
       $('document').ready(function(){
 
-        initVegas();
+        //initVegas();
 
         initIsotope('.argosy');
 
