@@ -15,7 +15,7 @@
         <div class="row">
           <div class="col-lg-12">
             <p>
-              A AudioClick é um consultório de fonoaudiologia especializado em exames audiológicos, reabilitação vestibular, adaptação de prótese auditiva, terapia de distúrbios vocais e aperfeiçamento, adaptação e reabilitação da motricidade orofacial e terapia de disturbios de linguagem.
+              A Audioclick é especialista em exames audiológicos e adaptação de próteses auditivas.
             </p>
             <p>
               Acompanhamos dia a dia as sucessivas mudanças ocorridas na legislação brasileira e a velocidade com que elas se processam. Buscamos em nossos processos o aprimoramento da qualificação profissional renovando as habilidades técnicas e realizando pesquisas em instituições nacionais e internacionais, conseguindo assim manter-nos atualizados e oferecer serviços cada vez mais seguros e confiáveis aos nossos clientes e parceiros.

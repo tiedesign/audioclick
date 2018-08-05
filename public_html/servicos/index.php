@@ -34,7 +34,7 @@
                     <li>Vectoeletronistagmografia</li>
                     <li>Pesquisa de limiar de desconforto</li>
                     <li>Teste da orelhinha</li>
-                    <li>teste da linguinha</li>
+                    <li>Teste da linguinha</li>
                   </ul>
                 </div>
               </div>
@@ -58,29 +58,6 @@
               <div class="col-xs-12">
                 <div class="servicos-item wow bounceInRight">
                   <div class="icon-container-mini pull-left">
-                    <img src="../img/student23.png"/>
-                  </div>
-                </div>
-                <div class="pull-left">
-                  <h4>Terapias fonoaudiológicas</h4>
-                </div>
-                <div>
-                  <br/><br/><br/><ul>
-                    <li>Atraso de linguagem oral/escrita</li>
-                    <li>Trocas nos sons na fala (dislalia)</li>
-                    <li>Dificuldade com cálculos matemáticos (discalculia)</li>
-                    <li>Disfluência (Gagueira)</li>
-                    <li>Aperfeiçoamento vocal para cantores</li>
-                    <li>Oralização e leitura labial</li>
-                    <li>Aprimoramento da dicção e oratória</li>
-                    <li>Terapia do processamento auditivo e TRT (zumbido)</li>
-                    <li>Distúrbios vocais, articulatórios, respiratórios ou de linguagem associados a processos degenerativos/acidentais.</li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-xs-12">
-                <div class="servicos-item wow bounceInRight">
-                  <div class="icon-container-mini pull-left">
                     <img src="../img/ear4.png"/>
                   </div>
                 </div>
@@ -91,6 +68,20 @@
                   <br/><br/><br/><ul>
                     <li>Programa de conservação auditiva planejado de acordo com as necessidades da sua empresa.</li>
                     <li>Trabalho integrado junto ao médico do trabalho e o técnico de segurança do trabalho.</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-xs-12">
+                <div class="servicos-item wow bounceInRight">
+                  <div class="icon-container-mini pull-left">
+                    <img src="../img/icon-clilpboard.png"/>
+                  </div>
+                </div>
+                <div class="pull-left">
+                  <h4>Perícias audiológicas</h4>
+                </div>
+                <div>
+                  <br/><br/><br/><ul>
                   </ul>
                 </div>
               </div>

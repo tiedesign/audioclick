@@ -5,9 +5,9 @@ function initVegas() {
       slides: [
           { src: '../img/slides/1024/audioclick-slide-voce-escuta-mas-nao-entende.jpg', transition: 'fade' },
           { src: '../img/slides/1024/audioclick-slide-proteses-auditivas-com-tecnologia-de-ultima-geracao.jpg', transition: 'swirlLeft2'  },
-          { src: '../img/slides/1024/audioclick-slide-atendemos-todas-as-idades.jpg' },
+          { src: '../img/slides/1024/audioclick-slide-atendemos-todas-as-idades.jpg' }
   //        { src: '../img/slides/1024/audioclick-slide-exames-audiologicos.jpg' },
-          { src: '../img/slides/1024/audioclick-slide-terapias-fonoaudiologicas.jpg' }
+          //{ src: '../img/slides/1024/audioclick-slide-terapias-fonoaudiologicas.jpg' }
       ],
       walk: function (index, slideSettings) {
         $('.slider-messages').addClass('hidden');

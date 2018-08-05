@@ -153,27 +153,6 @@
     </div>
 
 
-
-    <div class="slider-messages hidden" id="slider-message-4">
-
-      <div class="container">
-
-        <div class="col-lg-12">
-
-          <span style="font-size: 2.5em;" class="visible-md visible-lg">TERAPIAS<br>FONOAUDIOLÓGICAS</span>
-
-          <span style="font-size: 2em;" class="visible-sm">TERAPIAS<br>FONOAUDIOLÓGICAS</span>
-
-          <span style="font-size: 1.5em;" class="visible-xs">TERAPIAS<br>FONOAUDIOLÓGICAS</span>
-
-        </div>
-
-      </div>
-
-    </div>
-
-
-
     <div class="slider-messages hidden" id="slider-message-5">
 
       <div class="container text-center">
@@ -202,7 +181,7 @@
 
           <div class="col-sm-12 col-md-4 col-lg-3 wow bounceInLeft" style="visibility: visible; animation-name: bounceInLeft;">
 
-            <h1>Consultório de fonoaudiologia especializado</h1>
+            <h1>Audiologia clínica</h1>
 
           </div>
 
@@ -234,7 +213,7 @@
 
         <div class="row">
 
-          <div class="col-sm-12 col-md-6 servicos-item wow bounceInLeft" style="visibility: visible; animation-name: bounceInLeft;">
+          <div class="col-sm-12 col-md-4 servicos-item wow bounceInLeft" style="visibility: visible; animation-name: bounceInLeft;">
 
             <div class="icon-container pull-left">
 
@@ -246,7 +225,7 @@
 
           </div>
 
-          <div class="col-sm-12 col-md-6 servicos-item wow bounceInLeft" style="visibility: visible; animation-name: bounceInLeft;">
+          <div class="col-sm-12 col-md-4 servicos-item wow bounceInLeft" style="visibility: visible; animation-name: bounceInLeft;">
 
             <div class="icon-container pull-left">
 
@@ -258,19 +237,7 @@
 
           </div>
 
-          <div class="col-sm-12 col-md-6 servicos-item wow bounceInRight" style="visibility: hidden; animation-name: none;">
-
-            <div class="icon-container pull-left">
-
-              <img src="http://www.audioclick.com.br/img/student23.png">
-
-            </div>
-
-            <h4><br>Terapias fonoaudiológicas</h4>
-
-          </div>
-
-          <div class="col-sm-12 col-md-6 servicos-item wow bounceInRight" style="visibility: hidden; animation-name: none;">
+          <div class="col-sm-12 col-md-4 servicos-item wow bounceInRight" style="visibility: hidden; animation-name: none;">
 
             <div class="icon-container pull-left">
 
@@ -340,8 +307,6 @@
 
               <img onclick="prosthesisFilter(this, '.argosy')" class="logo-protese borda borda-selecionada" alt="ARGOSY" src="http://www.audioclick.com.br/img/proteses/logo/argosy-logo.png">
 
-              <img onclick="prosthesisFilter(this, '.resound')" class="logo-protese borda" alt="ReSound" src="http://www.audioclick.com.br/img/proteses/logo/resound-logo.png">
-
               <img onclick="prosthesisFilter(this, '.laperre')" class="logo-protese borda" alt="LAPERRE" src="http://www.audioclick.com.br/img/proteses/logo/laperre-logo.png">
 
               <img onclick="prosthesisFilter(this, '.rexton')" class="logo-protese borda" alt="REXTON" src="http://www.audioclick.com.br/img/proteses/logo/rexton-logo.png">
@@ -365,8 +330,6 @@
               <div id="isotope-container" style="position: relative; height: 236px;">
 
                 <div class="item argosy" style="position: absolute; left: 0px; top: 0px;"><img src="http://www.audioclick.com.br/img/proteses/home-argosy.jpg"></div>
-
-                <div class="item resound" style="position: absolute; display: none;"><img src="http://www.audioclick.com.br/img/proteses/home-resound.jpg"></div>
 
                 <div class="item laperre" style="position: absolute; display: none;"><img src="http://www.audioclick.com.br/img/proteses/home-laperre.jpg"></div>
 
@@ -392,12 +355,6 @@
 
           <div class="col-xs-6 text-center">
 
-            <a class="thumbnail" href="http://www.audioclick.com.br/proteses/#resound"><img alt="ReSound" src="http://www.audioclick.com.br/img/proteses/logo/resound-logo.png"></a>
-
-          </div>
-
-          <div class="col-xs-6 text-center">
-
             <a class="thumbnail" href="http://www.audioclick.com.br/proteses/#laperre"><img alt="LAPERRE" src="http://www.audioclick.com.br/img/proteses/logo/laperre-logo.png"></a>
 
           </div>
@@ -405,6 +362,10 @@
           <div class="col-xs-6 text-center">
 
             <a class="thumbnail" href="http://www.audioclick.com.br/proteses/#rexton"><img alt="REXTON" src="http://www.audioclick.com.br/img/proteses/logo/rexton-logo.png"></a>
+
+          <div class="col-xs-6 text-center">
+
+            <a class="thumbnail" href="http://www.audioclick.com.br/proteses/#microtech"><img alt="REXTON" src="http://www.audioclick.com.br/img/proteses/logo/microtech-logo.png"></a>
 
           </div>
 
@@ -612,7 +573,7 @@
 
     <p>
 
-      &copy; 2016 &mdash; Todos os direitos reservados
+      &copy; 2018 &mdash; Todos os direitos reservados
 
     </p>
 
@@ -622,7 +583,7 @@
 
 
 
-<section id="responsive-debug hidden">
+<section id="responsive-debug" class="hidden">
 
   <div class="visible-lg">lg</div>
 
