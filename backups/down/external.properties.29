@@ -1,0 +1,97 @@
+#
+# external libraries
+#
+br_com_aquiris_jau_cdi_helper                   = br.com.aquiris.jau:cdi-helper:4.2.47-SNAPSHOT
+br_com_aquiris_jau_cdi_test_helper              = br.com.aquiris.jau:cdi-test-helper:4.2.47-SNAPSHOT
+br_com_aquiris_jau_embedded_dynamo              = br.com.aquiris.jau:embedded-dynamo:4.2.47-SNAPSHOT
+br_com_aquiris_jau_embedded_elasticsearch       = br.com.aquiris.jau:embedded-elasticsearch:4.2.47-SNAPSHOT
+br_com_aquiris_jau_embedded_memcached           = br.com.aquiris.jau:embedded-memcached:4.2.47-SNAPSHOT
+br_com_aquiris_jau_embedded_redis               = br.com.aquiris.jau:embedded-redis:4.2.47-SNAPSHOT
+br_com_aquiris_jau_dynamodb_utils               = br.com.aquiris.jau:dynamodb-utils:4.2.47-SNAPSHOT
+br_com_aquiris_jau_processor_httprequest        = br.com.aquiris.jau:processor-httprequest:4.2.47-SNAPSHOT
+br_com_aquiris_jau_processor_elasticsearch      = br.com.aquiris.jau:processor-elasticsearch:4.2.47-SNAPSHOT
+br_com_aquiris_jau_gzip                         = br.com.aquiris.jau:gzip:4.2.47-SNAPSHOT
+br_com_aquiris_jau_web_services                 = br.com.aquiris.jau:web-services:4.2.47-SNAPSHOT
+br_com_aquiris_jau                              = br.com.aquiris.jau:java-aquiris-utils:4.2.47-SNAPSHOT
+#
+co_tomlee_gradle_thrift                         = co.tomlee.gradle.plugins:gradle-thrift-plugin:0.0.6
+#
+com_amazonaws_aws_java_sdk_dynamodb             = com.amazonaws:aws-java-sdk-dynamodb:1.11.157-SNAPSHOT
+com_amazonaws_aws_java_sdk_sns                  = com.amazonaws:aws-java-sdk-sns:1.11.157-SNAPSHOT
+com_amazonaws_aws_java_sdk_sqs                  = com.amazonaws:aws-java-sdk-sqs:1.11.157-SNAPSHOT
+com_amazonaws_dynamodb_transactions             = com.amazonaws.services.dynamodbv2:amazon-dynamodb-transactions:1.1.2-SNAPSHOT
+com_fasterxml_jackson_annotations               = com.fasterxml.jackson.core:jackson-annotations:2.7.6
+com_fasterxml_jackson_core                      = com.fasterxml.jackson.core:jackson-core:2.7.6
+com_fasterxml_jackson_databind                  = com.fasterxml.jackson.core:jackson-databind:2.7.6
+com_fasterxml_jackson_dataformat_avro           = com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.7.4
+com_fasterxml_jackson_dataformat_cbor           = com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.7.4
+com_fasterxml_jackson_dataformat_csv            = com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.5.3
+com_fasterxml_jackson_dataformat_protobuf       = com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.7.4
+com_fasterxml_jackson_dataformat_smile          = com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.7.4
+com_github_ben_manes_caffeine                   = com.github.ben-manes.caffeine:caffeine:2.5.5
+com_github_kstyrc_embedded_redis				= com.github.kstyrc:embedded-redis:0.6
+com_github_rholder_guava_retrying               = com.github.rholder:guava-retrying:2.0.0
+com_google_api_client                           = com.google.api-client:google-api-client:1.22.0
+com_google_aws_elasticache_provider             = com.google.code.simple-spring-memcached:aws-elasticache-provider:3.6.0
+com_google_guava                                = com.google.guava:guava:19.0
+com_newrelic_api                                = com.newrelic.agent.java:newrelic-api:3.39.1
+com_puppycrawl_checkstyle                       = com.puppycrawl.tools:checkstyle:6.18
+com_pusher_http                                 = com.pusher:pusher-http-java:0.9.3
+com_restFb                                      = com.restfb:restfb:1.20.0
+com_retrofit2                                   = com.squareup.retrofit2:retrofit:2.3.0
+com_retrofit2_jackson                           = com.squareup.retrofit2:converter-jackson:2.3.0
+com_scopely_titan                               = com.scopely:titan-java-sdk:1.0.0
+#
+commons_io                                      = commons-io:commons-io:2.5
+commons_codec                                   = commons-codec:commons-codec:1.10
+#
+de_aaschmid_gradle_cpd                          = de.aaschmid:gradle-cpd-plugin:1.0
+de_fst                                          = de.ruedigermoeller:fst:2.45
+de_memcached                                    = de.flapdoodle.embed:de.flapdoodle.embed.memcached:1.06.4
+de_undercouch_bson4jackson                      = de.undercouch:bson4jackson:2.7.0
+#
+io_fastjson_boon                                = io.fastjson:boon:0.33
+io_netty_all                                    = io.netty:netty-all:4.1.8.Final
+io_protostuff_api                               = io.protostuff:protostuff-api:1.4.2
+io_protostuff_collectionschema                  = io.protostuff:protostuff-collectionschema:1.4.2
+io_protostuff_core                              = io.protostuff:protostuff-core:1.4.2
+io_protostuff_json                              = io.protostuff:protostuff-json:1.4.2
+io_protostuff_runtime                           = io.protostuff:protostuff-runtime:1.4.2
+io_protostuff_runtime_registry                  = io.protostuff:protostuff-runtime-registry:1.4.2
+io_rxjava                                       = io.reactivex:rxjava:1.1.5
+#
+javax_annotation_api                            = javax.annotation:javax.annotation-api:1.2
+#
+junit                                           = junit:junit:4.12
+#
+net_openhft_zero_allocation_hashing				= net.openhft:zero-allocation-hashing:0.7
+#
+org_apache_commons_lang3                        = org.apache.commons:commons-lang3:3.4
+org_apache_commons_math3                        = org.apache.commons:commons-math3:3.6.1
+org_apache_http_client                          = org.apache.httpcomponents:httpclient:4.3.2
+org_apache_http_core                            = org.apache.httpcomponents:httpcore:4.3.2
+org_apache_log4j_api                            = org.apache.logging.log4j:log4j-api:2.3
+org_apache_log4j_core                           = org.apache.logging.log4j:log4j-core:2.3
+org_apache_log4j_slf4j                          = org.apache.logging.log4j:log4j-slf4j-impl:2.3
+org_apache_thrift                               = org.apache.thrift:libthrift:0.9.3
+org_assertj_core                                = org.assertj:assertj-core:3.5.2
+org_codehaus_jackson_core_asl                   = org.codehaus.jackson:jackson-core-asl:1.9.13
+org_elasticsearch                               = org.elasticsearch:elasticsearch:2.3.5
+org_elasticsearch_client_rest                   = org.elasticsearch.client:rest:5.4.0
+org_jboss_jandex                                = org.jboss:jandex:2.0.3.Final
+org_jboss_resteasy                              = org.jboss.resteasy:resteasy-client:3.0.19.Final
+org_jboss_resteasy_cdi                          = org.jboss.resteasy:resteasy-cdi:3.0.19.Final
+org_jboss_resteasy_netty_cdi                    = org.jboss.resteasy:resteasy-netty4-cdi:3.0.19.Final
+org_jboss_resteasy_jackson                      = org.jboss.resteasy:resteasy-jackson2-provider:3.0.19.Final
+org_jboss_weld_core                             = org.jboss.weld:weld-core:2.3.5.Final
+org_jboss_weld_se                               = org.jboss.weld.se:weld-se:2.3.5.Final
+org_jboss_weld_se_core                          = org.jboss.weld.se:weld-se-core:2.3.5.Final
+org_jglue_cdi_unit                              = org.jglue.cdi-unit:cdi-unit:3.1.5-SNAPSHOT
+org_mockito_core                                = org.mockito:mockito-core:1.10.19
+org_mutability_detector                         = org.mutabilitydetector:MutabilityDetector:0.9.5
+org_redisson									= org.redisson:redisson:3.3.2
+org_reflections                                 = org.reflections:reflections:0.9.10
+org_slf4j_api                                   = org.slf4j:slf4j-api:1.7.21
+org_snakeyaml                                   = org.yaml:snakeyaml:1.17
+#
+uk_com_robust_cloning                           = uk.com.robust-it:cloning:1.9.2

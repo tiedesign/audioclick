@@ -1,0 +1,64 @@
+03-13 16:10:34.452: W/Unity(6640): Failed to get permission info for com.sec.android.provider.badge.permission.READ, manifest likely missing custom permission declaration
+03-13 16:10:34.452: W/Unity(6640): Permission com.sec.android.provider.badge.permission.READ ignored
+03-13 16:10:34.452: W/Unity(6640): Failed to get permission info for com.sec.android.provider.badge.permission.WRITE, manifest likely missing custom permission declaration
+03-13 16:10:34.452: W/Unity(6640): Permission com.sec.android.provider.badge.permission.WRITE ignored
+03-13 16:10:34.453: W/Unity(6640): Failed to get permission info for com.htc.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.453: W/Unity(6640): Permission com.htc.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.453: W/Unity(6640): Failed to get permission info for com.htc.launcher.permission.UPDATE_SHORTCUT, manifest likely missing custom permission declaration
+03-13 16:10:34.453: W/Unity(6640): Permission com.htc.launcher.permission.UPDATE_SHORTCUT ignored
+03-13 16:10:34.455: W/Unity(6640): Failed to get permission info for com.sonyericsson.home.permission.BROADCAST_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.455: W/Unity(6640): Permission com.sonyericsson.home.permission.BROADCAST_BADGE ignored
+03-13 16:10:34.456: W/Unity(6640): Failed to get permission info for com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.456: W/Unity(6640): Permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE ignored
+03-13 16:10:34.457: W/Unity(6640): Failed to get permission info for com.anddoes.launcher.permission.UPDATE_COUNT, manifest likely missing custom permission declaration
+03-13 16:10:34.457: W/Unity(6640): Permission com.anddoes.launcher.permission.UPDATE_COUNT ignored
+03-13 16:10:34.458: W/Unity(6640): Failed to get permission info for com.majeur.launcher.permission.UPDATE_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.458: W/Unity(6640): Permission com.majeur.launcher.permission.UPDATE_BADGE ignored
+03-13 16:10:34.459: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.CHANGE_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.459: W/Unity(6640): Permission com.huawei.android.launcher.permission.CHANGE_BADGE ignored
+03-13 16:10:34.460: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.460: W/Unity(6640): Permission com.huawei.android.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.460: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.WRITE_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.460: W/Unity(6640): Permission com.huawei.android.launcher.permission.WRITE_SETTINGS ignored
+03-13 16:10:34.461: W/Unity(6640): Failed to get permission info for android.permission.READ_APP_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.461: W/Unity(6640): Permission android.permission.READ_APP_BADGE ignored
+03-13 16:10:34.462: W/Unity(6640): Failed to get permission info for com.oppo.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.462: W/Unity(6640): Permission com.oppo.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.462: W/Unity(6640): Failed to get permission info for com.oppo.launcher.permission.WRITE_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.462: W/Unity(6640): Permission com.oppo.launcher.permission.WRITE_SETTINGS ignored
+03-13 16:10:34.463: W/Unity(6640): Failed to get permission info for me.everything.badger.permission.BADGE_COUNT_READ, manifest likely missing custom permission declaration
+03-13 16:10:34.463: W/Unity(6640): Permission me.everything.badger.permission.BADGE_COUNT_READ ignored
+03-13 16:10:34.463: W/Unity(6640): Failed to get permission info for me.everything.badger.permission.BADGE_COUNT_WRITE, manifest likely missing custom permission declaration
+03-13 16:10:34.463: W/Unity(6640): Permission me.everything.badger.permission.BADGE_COUNT_WRITE ignored
+03-13 16:10:34.943: E/Unity(6640): Unable to find AudioPluginMsHRTF
+03-13 16:10:34.943: E/Unity(6640): Unable to find AudioPluginOculusSpatializer
+03-13 16:10:34.944: E/Unity(6640): Unable to find libAudioPluginOculusSpatializer
+03-13 16:10:34.972: D/Unity(6640):  GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_hdr GL_OES_texture_compression_astc GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_border_clamp GL_EXT_multisampled_render_to_texture GL_OES_sha
+03-13 16:10:34.972: D/Unity(6640): der_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_EXT_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker GL_OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_EXT_buffer_storage GL_EXT_blit_framebuffer_params GL_EXT_clip_cull_distance GL_EXT_protected_textures GL_EXT_shader_non_constant_global_i
+03-13 16:10:34.972: D/Unity(6640): nitializers
+03-13 16:10:35.470: W/Unity(6640): OnLevelWasLoaded was found on InControlGamepadListener
+03-13 16:10:35.470: W/Unity(6640): This message has been deprecated and will be removed in a later version of Unity.
+03-13 16:10:35.470: W/Unity(6640): Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+03-13 16:10:35.470: W/Unity(6640):  
+03-13 16:10:35.470: W/Unity(6640): (Filename:  Line: 376)
+03-13 16:10:41.581: I/Unity(6640): [OBBDownloadManager] Expansion filepath: /storage/emulated/0/Android/obb/com.aquiris.horizonchase
+03-13 16:10:41.593: I/Unity(6640): [OBBDownloadManager] downloading file:///storage/emulated/0/Android/obb/com.aquiris.horizonchase/main.10519.com.aquiris.horizonchase.obb
+03-13 16:10:42.378: I/Unity(6640): [OBBDownloadManager] Loading title scene.
+03-13 16:10:43.896: D/GamesUnitySDK(6640): Performing Android initialization of the GPG SDK
+03-13 16:10:43.934: I/Unity(6640): Building GPG services, implicitly attempts silent auth
+03-13 16:10:44.150: W/Unity(6640): !!! [Play Games Plugin DLL] 03/13/18 16:10:44 -03:00 WARNING: Creating new PlayGamesPlatform
+03-13 16:10:44.150: W/Unity(6640):  
+03-13 16:10:44.150: W/Unity(6640): (Filename: ./artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+03-13 16:10:44.641: I/Unity(6640): [SocialManager] User successfully authenticated.
+03-13 16:10:45.271: W/Unity(6640): DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+03-13 16:10:45.271: W/Unity(6640):  
+03-13 16:10:45.271: W/Unity(6640): (Filename:  Line: 481)
+03-13 16:10:56.241: I/Unity(6640): Using Facebook Unity SDK v7.10.0 with FBAndroidSDK/4.23.0
+03-13 16:10:56.847: I/Unity(6640): [F2PManager] Retrieved billing products list. Found 1 products.
+03-13 16:10:56.849: I/Unity(6640):  - Name:Full Game Unlock (Horizon Chase - World Tour) Id:hc_full_game_unlock Price:9.99
+03-13 16:10:57.139: I/Unity(6640): [F2PManager] Transaction finished event. Checking 1 transactions...
+03-13 16:10:57.143: I/Unity(6640): [F2PManager]     Checking transaction: [BillingTransaction: ProductIdentifier=hc_full_game_unlock, TransactionDateUTC=12/30/2017 20:50:36, TransactionIdentifier=GPA.3344-0163-2222-28734, TransactionState=RESTORED, VerificationState=SUCCESS, Error=]
+03-13 16:10:57.143: I/Unity(6640): [F2PManager]     RESTORED (Receipt: NHHqZguxxGgUQuqG8FvB1s6VEdxLVLOssRQxtiRYwi6VGSmRLByD7usT+8BB1iNHib2eFhPepO2G+UniSRrC+nR1LA+T/h28zxVIYGds5VUr+vrgJH605NEGNn8xm6ok0F8kgzGrju2UCQ3ssGyPiZUi0EpumHmGTWy3xFdIwhDTD9RiwqKdyso05yUoiB2Ne68Jf0Ez5jCIV58opFNPCGEJKVB685juwSpUTB2nnEitRHrG4ZARaYl3oV9mA9v++sXA8Lp71UhxP4RDV+OyVVG94UYQ3/ommTLRVO3b8H6loYCqUfJRkZS51ICOS1k+w3GkHR7Yw9ob6rOvmsjV/g==)
+03-13 16:11:01.987: I/Unity(6640): [RestorePurchaseHelper] Game restored: True
+03-13 16:11:04.365: I/Unity(6640): [RestorePurchaseHelper] Game restored: True
+03-13 16:11:05.475: I/Unity(6640): [RestorePurchaseHelper] Game restored: True

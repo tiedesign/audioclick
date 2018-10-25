@@ -1,0 +1,4 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"POST","/authentication/register",30,0,43000,43287,42861,44391,220,0.66
+"POST","/model/listModels",30,0,3800,3886,3407,4559,1815550,0.66
+"None","Total",60,0,4600,23586,3407,44391,907885,1.32

@@ -1,0 +1,1623 @@
+03-13 16:10:34.162: I/Launcher_click(5157): DragLayer onInterceptTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=508.52914, y[0]=195.89796, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.163: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:10:34.163: I/Launcher_click(5157): Workspace onInterceptTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=3757.529, y[0]=1761.898, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.163: I/Launcher_click(5157): CellLayout onInterceptTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=488.52914, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.164: I/Launcher_click(5157): ShortcutAndWidgetContainer onInterceptTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=488.52914, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.164: I/Launcher_click(5157): CompoundIcon onInterceptTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=72.529144, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.164: I/Launcher_click(5157): BubbleTextView onTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=65.529144, y[0]=91.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.181: I/Launcher_click(5157): CompoundIcon onTouchEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=72.529144, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241143, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.194: I/Launcher_click(5157): DragLayer onInterceptTouchEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=508.52914, y[0]=195.89796, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241176, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.194: I/Launcher_click(5157): Workspace onInterceptTouchEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=3757.529, y[0]=1761.898, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241176, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.194: I/Launcher_click(5157): CellLayout onInterceptTouchEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=488.52914, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241176, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.194: I/Launcher_click(5157): ShortcutAndWidgetContainer onInterceptTouchEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=488.52914, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241176, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.195: I/Launcher_click(5157): CompoundIcon onTouchEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=72.529144, y[0]=98.897964, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=25241176, downTime=25241143, deviceId=9, source=0x1002 }
+03-13 16:10:34.210: I/Launcher_click(5157): Launcher onClick Shortcut
+03-13 16:10:34.212: I/ActivityManager(3188): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 pkg=com.aquiris.horizonchase cmp=com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity bnds=[436,97][644,395] (has extras)} from uid 10009 on display 0
+03-13 16:10:34.218: I/QTI PowerHAL(3188): Got wifi_hint
+03-13 16:10:34.220: I/InputDispatcher(3188): Window 'Window{1e2a689 u0 com.asus.launcher/com.android.launcher3.Launcher}' spent 7.0ms processing input events on average(0/4). Monitor spent 3.1ms processing input events on average(0/2). Window input events down spent 12.8ms on average (0/2). Window input events up spent 1.1ms on average (0/2). Monitor input events down spent 5.3ms on average (0/1). Monitor input events up spent 1.0ms on average (0/1).
+03-13 16:10:34.220: D/ActivityTrigger(3188): ActivityTrigger activityPauseTrigger 
+03-13 16:10:34.224: V/ActivityCategoryHelper(5157): takes: 0
+03-13 16:10:34.224: D/LauncherLog(5157): Launcher onPause Begin
+03-13 16:10:34.224: D/LauncherLog(5157): Launcher onPause End
+03-13 16:10:34.226: D/ActivityManager(3188): [MemInfo] Process does not exist before starting ActivityRecord{ea24d00 u0 com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity t691}. System free memory=1374064640
+03-13 16:10:34.233: D/LauncherLog(5157): Launcher:: startActivity: pkg: com.aquiris.horizonchase clz: com.unity3d.player.UnityPlayerActivity user: null
+03-13 16:10:34.237: I/ActivityManager(3188): Start proc 6640:com.aquiris.horizonchase/u0a168 for activity com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity duration: 11
+03-13 16:10:34.237: V/BoostFramework(3188): BoostFramework() : mPerf = com.qualcomm.qti.Performance@21b9671
+03-13 16:10:34.239: D/ActivityManager(3188): [MemInfo] Process does not exist before starting ActivityRecord{ea24d00 u0 com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity t691}. System free memory=1374195712
+03-13 16:10:34.240: V/Launcher(5157): [onWindowFocusChanged]: false, takes: 0ms
+03-13 16:10:34.250: W/WindowOrientationListener(3188): setCurrentRotation(1)
+03-13 16:10:34.270: D/WindowManager(3188): adjustConfigurationLw, config:{0 0.0 ?mcc?mnc ?localeList ?layoutDir sw423dp w752dp h399dp 408dpi nrml long land ?uimode ?night finger -keyb/v/h -nav/v} mLidState:-1 mHasDockFeature:false mHasKeyboardFeature:false mHasHallSensorFeature:false config.hardKeyboardHidden:2
+03-13 16:10:34.270: I/ActivityManager(3188): Config changes=480 {0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/h s.128}
+03-13 16:10:34.300: I/AlwaysOn:AlwaysOnApplication(4505): Application onConfigurationChanged(): orientation=2
+03-13 16:10:34.301: I/AlwaysOn:Agent(4505):  checkConfigurationChanged(): other configurations (old={0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w423dp h729dp 408dpi nrml long port finger -keyb/v/h -nav/h s.127}  -->  new={0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/h s.128}) ...
+03-13 16:10:34.301: D/AlwaysOn:Agent(4505):  handleUiMessage_CreateNewViewManager():  ...
+03-13 16:10:34.302: D/Launcher.Utilities(5157): isPhone= true
+03-13 16:10:34.302: D/FontUtils(5157): getSavedDisplaySettingsFontScale: 0.85
+03-13 16:10:34.302: D/FontUtils(5157): getSavedDisplaySettingsFontScale: 0.85
+03-13 16:10:34.302: D/FontUtils(5157): checkAndGetSavedFontScale, Latest saved displaySettings fontscale: 0.85, current displaySettings fontscale: 0.85, AsusEzmodeStatus(0 is disabled): 0
+03-13 16:10:34.302: D/AlwaysOn:CommonUtils(4505):  get always on. (result=false) ...
+03-13 16:10:34.302: D/FontUtils(5157): current Launcher saved fontscale: 0.85
+03-13 16:10:34.304: I/LauncherApplication(5157): isSystemFontChanged: false
+03-13 16:10:34.304: D/FontUtils(5157): current Launcher saved fontscale: 0.85
+03-13 16:10:34.305: D/WindowManager(3188): adjustConfigurationLw, config:{0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/v s.128} mLidState:-1 mHasDockFeature:false mHasKeyboardFeature:false mHasHallSensorFeature:false config.hardKeyboardHidden:2
+03-13 16:10:34.306: D/Launcher.Utilities(5157): Screen density does not change, it's not display size change.
+03-13 16:10:34.306: D/LauncherLog(5157): LauncherModel changeWorkThread - set sWorker : sPHONEWorkerThread
+03-13 16:10:34.307: D/LauncherLog(5157): LauncherProvier - getDatabase: normal-launcher.db
+03-13 16:10:34.315: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.316: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.325: I/EmojiSearchExtension(4175): onDestroy()
+03-13 16:10:34.325: I/EmojiSearchExtension(4175): onDeactivate()
+03-13 16:10:34.351: I/GoogleInputMethod(4175): onStartInput() : Dummy InputConnection bound
+03-13 16:10:34.355: I/DeviceIdleController(3188): becomeActiveLocked, reason = screen
+03-13 16:10:34.358: I/InputReader(3188): Reconfiguring input devices.  changes=0x00000004
+03-13 16:10:34.358: I/InputReader(3188): Device reconfigured: id=7, name='fts_cap', size 1080x1920, orientation 1, mode 1, display id 0
+03-13 16:10:34.358: D/AlwaysOnController(3188): onDisplayChanged. newDisplayState=ON
+03-13 16:10:34.358: I/InputReader(3188): Device reconfigured: id=9, name='fts_tstouch', size 1080x1920, orientation 1, mode 1, display id 0
+03-13 16:10:34.360: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.360: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.365: I/PBSessionCacheImpl(5256): Deleted sessionId[3038866041761] from persistence.
+03-13 16:10:34.370: I/art(6640): Starting a blocking GC AddRemoveAppImageSpace
+03-13 16:10:34.376: D/Telecom(3188): [TELECOM][AsusTelecomReceiver]: AsusTelecomReceiver: onReceive()...action = android.intent.action.CONFIGURATION_CHANGED
+03-13 16:10:34.377: D/Launcher.Model(5157): onReceive intent=Intent { act=android.intent.action.CONFIGURATION_CHANGED flg=0x70000010 }
+03-13 16:10:34.381: D/keyguard(4222): AsusDeviceModeManager:DB EasyMode: false  isEasyMode: false
+03-13 16:10:34.381: D/keyguard(4222): AsusEasyModeManager:shouldDoEffect KeyguardVisbile: false, EasyMode: false, Expanded: false
+03-13 16:10:34.381: D/keyguard(4222): AsusEasyModeManager:updateBlurEffect()  should: false mBluring: false
+03-13 16:10:34.379: E/AndroidIME(4175): com.google.android.apps.inputmethod.libs.framework.core.KeyboardType: name should not be empty
+03-13 16:10:34.394: W/SearchService(5256): Abort, client detached.
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: V/ReflectionMethods(4222): ========ReflectionMethods.isFlipfontSupport = true ===============
+03-13 16:10:34.396: D/NetworkController.MobileSignalController(1)(4222): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 13 -105 -8 98 2147483647 2147483647 gsm|lte
+03-13 16:10:34.397: I/keyguard(4222): AsusMediator:onConfigurationChanged:{0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/h s.128}
+03-13 16:10:34.397: I/keyguard(4222): AsusSlideshowManager:onConfigurationChanged
+03-13 16:10:34.397: I/keyguard(4222): SlideshowLocaleManager:getLanguageLocale: pt_br
+03-13 16:10:34.397: I/keyguard(4222): AsusClockContainer_L:uninit
+03-13 16:10:34.399: I/keyguard(4222): AsusClockContainer_L:stopListening
+03-13 16:10:34.401: V/Monotype(6640): SetAppTypeFace- try to flip, app = com.aquiris.horizonchase
+03-13 16:10:34.402: D/PhoneInterfaceManager(4428): isWifiCallingAvailable: sub Id : 1
+03-13 16:10:34.402: D/NetworkController.MobileSignalController(1)(4222): isWifiCallingAvailable=false
+03-13 16:10:34.406: V/Monotype(6640):     Typeface getFontPathFlipFont - systemFont = default#default
+03-13 16:10:34.409: D/PhoneInterfaceManager(4428): isVolteAvailable: sub Id : 1
+03-13 16:10:34.409: V/ReflectionMethods(4222): ========ReflectionMethods.getVolteAvailable = false ===============
+03-13 16:10:34.411: D/PhoneInterfaceManager(4428): isVideoTelephonyAvailable: sub Id : 1
+03-13 16:10:34.411: V/ReflectionMethods(4222): ========ReflectionMethods.getVideoTelephonyAvailable = false ===============
+03-13 16:10:34.416: I/keyguard(4222): AsusMediator:unregisterBarClockShowCallback callback:com.asus.keyguard.module.clock.ui.AsusWeatherClockContainer$1@a7e60cc
+03-13 16:10:34.416: I/keyguard(4222): TargetContainer:uninitDrag
+03-13 16:10:34.416: W/keyguard(4222): AnimationTargetContainer:reset mState:READY
+03-13 16:10:34.417: I/keyguard(4222): AsusClockContainer_L:onInit
+03-13 16:10:34.420: V/Monotype(6640): SetAppTypeFace- try to flip, app = com.aquiris.horizonchase
+03-13 16:10:34.420: V/Monotype(6640):     Typeface getFontPathFlipFont - systemFont = default#default
+03-13 16:10:34.425: I/OptInState(5256): There is a new client and it does not support opt-in. Dropping request.
+03-13 16:10:34.435: I/MicroDetector(5256): Keeping mic open: false
+03-13 16:10:34.435: I/DeviceStateChecker(5256): DeviceStateChecker cancelled
+03-13 16:10:34.435: I/AudioController(5256): internalShutdown
+03-13 16:10:34.435: I/MicroRecognitionRunner(5256): Stopping hotword detection.
+03-13 16:10:34.436: I/MicroRecognitionRunner(5256): Detection finished
+03-13 16:10:34.440: I/keyguard(4222): AsusFirstKGUnlockedMonitor:getSettingsForFirstKGUnlocked()  settings: true
+03-13 16:10:34.441: I/keyguard(4222): AsusClockContainer_L:create mAppWidgetHost
+03-13 16:10:34.442: I/MicroDetectionWorker(5256): #startMicroDetector [speakerMode: 0]
+03-13 16:10:34.442: I/MicrophoneInputStream(5256): mic_close  SR : 16000 CC : 16 SO : 1999
+03-13 16:10:34.443: I/keyguard(4222): AsusClockContainer_L:startListening
+03-13 16:10:34.443: I/AudioController(5256): Created new AudioSource
+03-13 16:10:34.443: D/keyguard(4222): AsusClockContainer_L:onFinishInflate: mWeatherWidgetIdInSettings=2
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_3:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_2:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): TargetContainer:onPathDataChanged mPathKey:clock data:null
+03-13 16:10:34.444: I/keyguard(4222): AsusMediator:registerBarClockShowCallback callback:com.asus.keyguard.module.clock.ui.AsusWeatherClockContainer$1@b3046a3
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_3:onThemeChanged:0
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_3:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_3:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_2:onThemeChanged:0
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_2:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): AsusLSShortcutContainer_2:updateActive posType:0 active:false
+03-13 16:10:34.444: I/keyguard(4222): TargetContainer:init
+03-13 16:10:34.447: V/BoostFramework(4222): BoostFramework() : mPerf = com.qualcomm.qti.Performance@e25eda0
+03-13 16:10:34.447: V/BoostFramework(4222): BoostFramework() : mPerf = com.qualcomm.qti.Performance@e4d1d59
+03-13 16:10:34.451: I/MicroRecognitionRunner(5256): Starting detection.
+03-13 16:10:34.451: I/MicrophoneInputStream(5256): mic_starting  SR : 16000 CC : 16 SO : 1999
+03-13 16:10:34.452: W/Unity(6640): Failed to get permission info for com.sec.android.provider.badge.permission.READ, manifest likely missing custom permission declaration
+03-13 16:10:34.452: W/Unity(6640): Permission com.sec.android.provider.badge.permission.READ ignored
+03-13 16:10:34.452: D/audio_hw_primary(2846): adev_open_input_stream: enter: sample_rate(16000) channel_mask(0x10) devices(0x80000004)        stream_handle(0xf0b8d780) io_handle(1678) source(6) format 1
+03-13 16:10:34.452: V/audio_hw_primary(2846): adev_open_input_stream: exit
+03-13 16:10:34.452: W/Unity(6640): Failed to get permission info for com.sec.android.provider.badge.permission.WRITE, manifest likely missing custom permission declaration
+03-13 16:10:34.452: W/Unity(6640): Permission com.sec.android.provider.badge.permission.WRITE ignored
+03-13 16:10:34.453: W/Unity(6640): Failed to get permission info for com.htc.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.453: W/Unity(6640): Permission com.htc.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.453: I/AudioFlinger(2846): AudioFlinger's thread 0xeea83b80 ready to run
+03-13 16:10:34.453: D/audio_hw_primary(2846): in_standby: enter: stream (0xf0b8d780) usecase(16: audio-record)
+03-13 16:10:34.453: V/audio_hw_primary(2846): in_standby: exit:  status(0)
+03-13 16:10:34.453: W/Unity(6640): Failed to get permission info for com.htc.launcher.permission.UPDATE_SHORTCUT, manifest likely missing custom permission declaration
+03-13 16:10:34.453: W/Unity(6640): Permission com.htc.launcher.permission.UPDATE_SHORTCUT ignored
+03-13 16:10:34.454: D/audio_hw_primary(2846): in_standby: enter: stream (0xf0b8d780) usecase(16: audio-record)
+03-13 16:10:34.454: V/audio_hw_primary(2846): in_standby: exit:  status(0)
+03-13 16:10:34.455: W/Unity(6640): Failed to get permission info for com.sonyericsson.home.permission.BROADCAST_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.455: W/Unity(6640): Permission com.sonyericsson.home.permission.BROADCAST_BADGE ignored
+03-13 16:10:34.456: W/Unity(6640): Failed to get permission info for com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.456: W/Unity(6640): Permission com.sonymobile.home.permission.PROVIDER_INSERT_BADGE ignored
+03-13 16:10:34.457: W/Unity(6640): Failed to get permission info for com.anddoes.launcher.permission.UPDATE_COUNT, manifest likely missing custom permission declaration
+03-13 16:10:34.457: W/Unity(6640): Permission com.anddoes.launcher.permission.UPDATE_COUNT ignored
+03-13 16:10:34.458: W/Unity(6640): Failed to get permission info for com.majeur.launcher.permission.UPDATE_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.458: W/Unity(6640): Permission com.majeur.launcher.permission.UPDATE_BADGE ignored
+03-13 16:10:34.459: V/AudioPolicyManagerCustom(2846): startInput() input 1678
+03-13 16:10:34.459: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.CHANGE_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.459: W/AudioPolicyManagerCustom(2846): startInput(1678) preempting low-priority input 1670
+03-13 16:10:34.459: W/Unity(6640): Permission com.huawei.android.launcher.permission.CHANGE_BADGE ignored
+03-13 16:10:34.459: V/AudioPolicyManagerCustom(2846): stopInput() input 1670
+03-13 16:10:34.460: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.460: W/Unity(6640): Permission com.huawei.android.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.460: W/Unity(6640): Failed to get permission info for com.huawei.android.launcher.permission.WRITE_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.460: W/Unity(6640): Permission com.huawei.android.launcher.permission.WRITE_SETTINGS ignored
+03-13 16:10:34.461: W/Unity(6640): Failed to get permission info for android.permission.READ_APP_BADGE, manifest likely missing custom permission declaration
+03-13 16:10:34.461: W/Unity(6640): Permission android.permission.READ_APP_BADGE ignored
+03-13 16:10:34.461: I/MicroDetectionWorker(5256): onReady
+03-13 16:10:34.462: W/Unity(6640): Failed to get permission info for com.oppo.launcher.permission.READ_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.462: W/Unity(6640): Permission com.oppo.launcher.permission.READ_SETTINGS ignored
+03-13 16:10:34.462: D/audio_hw_primary(2846): in_set_parameters: enter: kvpairs=routing=0
+03-13 16:10:34.462: V/audio_hw_primary(2846): in_set_parameters: exit: status(0)
+03-13 16:10:34.462: D/audio_hw_primary(2846): in_standby: enter: stream (0xf0b8d480) usecase(16: audio-record)
+03-13 16:10:34.462: W/Unity(6640): Failed to get permission info for com.oppo.launcher.permission.WRITE_SETTINGS, manifest likely missing custom permission declaration
+03-13 16:10:34.462: W/Unity(6640): Permission com.oppo.launcher.permission.WRITE_SETTINGS ignored
+03-13 16:10:34.463: W/Unity(6640): Failed to get permission info for me.everything.badger.permission.BADGE_COUNT_READ, manifest likely missing custom permission declaration
+03-13 16:10:34.463: W/Unity(6640): Permission me.everything.badger.permission.BADGE_COUNT_READ ignored
+03-13 16:10:34.463: W/Unity(6640): Failed to get permission info for me.everything.badger.permission.BADGE_COUNT_WRITE, manifest likely missing custom permission declaration
+03-13 16:10:34.463: W/Unity(6640): Permission me.everything.badger.permission.BADGE_COUNT_WRITE ignored
+03-13 16:10:34.479: I/keyguard(4222): TargetContainer:uninitDrag
+03-13 16:10:34.479: W/keyguard(4222): AnimationTargetContainer:reset mState:READY
+03-13 16:10:34.485: I/keyguard(4222): TargetContainer:init
+03-13 16:10:34.485: I/keyguard(4222): AsusLSShortcut:updateUI app:android.graphics.drawable.VectorDrawable@e741e91 background:null color:-1
+03-13 16:10:34.491: I/keyguard(4222): AsusLSShortcut:setAppInfo:Câmera
+03-13 16:10:34.497: I/keyguard(4222): TargetContainer:onPathDataChanged mPathKey:null data:null
+03-13 16:10:34.511: V/audio_hw_primary(2846): stop_input_stream: enter: usecase(16: audio-record)
+03-13 16:10:34.511: V/audio_hw_primary(2846): disable_audio_route: enter: usecase(16)
+03-13 16:10:34.511: D/audio_hw_primary(2846): enableNXPamp_isSpeakerDevice , enter 
+03-13 16:10:34.511: E/msm8916_platform(2846): check_is_speakerout: snd device 114 
+03-13 16:10:34.511: D/audio_hw_primary(2846):  enableNXPamp_isSpeakerDevice , exit 
+03-13 16:10:34.511: D/audio_hw_primary(2846): disable_audio_route: reset and update mixer path: audio-record
+03-13 16:10:34.512: V/audio_hw_primary(2846): disable_audio_route: exit
+03-13 16:10:34.512: D/hardware_info(2846): hw_info_append_hw_type : device_name = voice-rec-mic
+03-13 16:10:34.512: D/audio_hw_primary(2846): disable_snd_device: snd_device(114: voice-rec-mic)
+03-13 16:10:34.512: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(114) num devices(0) new_snd_devices(0)
+03-13 16:10:34.514: V/audio_hw_primary(2846): stop_input_stream: exit: status(0)
+03-13 16:10:34.514: V/audio_hw_primary(2846): in_standby: exit:  status(0)
+03-13 16:10:34.517: D/audio_hw_primary(2846): adev_close_input_stream: enter:stream_handle(0xf0b8d480)
+03-13 16:10:34.517: D/msm8916_platform(2846):    platform_set_echo_reference enter out_device 0  
+03-13 16:10:34.517: D/msm8916_platform(2846): platform_set_echo_reference return active_input NULL  
+03-13 16:10:34.517: D/audio_hw_primary(2846): in_standby: enter: stream (0xf0b8d480) usecase(16: audio-record)
+03-13 16:10:34.517: V/audio_hw_primary(2846): in_standby: exit:  status(0)
+03-13 16:10:34.518: D/audio_hw_primary(2846): in_set_parameters: enter: kvpairs=input_source=6;routing=-2147483644
+03-13 16:10:34.518: V/audio_hw_primary(2846): in_set_parameters: exit: status(0)
+03-13 16:10:34.520: V/AudioPolicyManagerCustom(2846): AudioPolicyManager::startInput() input source = 1999
+03-13 16:10:34.520: V/AudioPolicyManagerCustom(2846): stopInput() input 1670
+03-13 16:10:34.520: W/APM_AudioPolicyManager(2846): stopInput() unknown input 1670
+03-13 16:10:34.520: V/msm8916_platform(2846): platform_update_usecase_from_source: input source :6
+03-13 16:10:34.520: D/audio_hw_primary(2846): start_input_stream: enter: stream(0xf0b8d780)usecase(16: audio-record)
+03-13 16:10:34.520: V/audio_hw_primary(2846): start_input_stream: usecase(16)
+03-13 16:10:34.521: D/audio_hw_primary(2846): select_devices for use case (audio-record)
+03-13 16:10:34.521: D/msm8916_platform(2846): platform_get_input_snd_device: bt_devices_type : 0
+03-13 16:10:34.521: D/msm8916_platform(2846): is_beetalk = false
+03-13 16:10:34.521: V/msm8916_platform(2846): platform_get_input_snd_device: enter: out_device(0) in_device(0x4) channel_count (1) channel_mask (0x10)
+03-13 16:10:34.521: V/msm8916_platform(2846): platform_get_input_snd_device: exit: in_snd_device(voice-rec-mic)
+03-13 16:10:34.521: D/msm8916_platform(2846): is_beetalk = false
+03-13 16:10:34.521: D/audio_hw_primary(2846): select_devices: out_snd_device(0: ) in_snd_device(114: voice-rec-mic)
+03-13 16:10:34.521: I/msm8916_platform(2846): platform_check_and_set_capture_codec_backend_cfg:txbecf: afe: bitwidth 16, samplerate 16000, backend_idx 0 usecase = 16 device (voice-rec-mic)
+03-13 16:10:34.521: I/msm8916_platform(2846): platform_check_capture_codec_backend_cfg:txbecf: afe: Codec selected backend: 0 current bit width: 16 and sample rate: 16000
+03-13 16:10:34.521: W/msm8916_platform(2846): platform_check_capture_codec_backend_cfg:txbecf: afe:Use default bw and sr for voice/voip calls
+03-13 16:10:34.521: I/msm8916_platform(2846): platform_check_capture_codec_backend_cfg:txbecf: afe: Codec selected backend: 0 updated bit width: 16 and sample rate: 48000
+03-13 16:10:34.521: D/audio_hw_primary(2846): check_usecases_capture_codec_backend:becf: force routing 0
+03-13 16:10:34.521: D/hardware_info(2846): hw_info_append_hw_type : device_name = voice-rec-mic
+03-13 16:10:34.521: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(114) num devices(0) new_snd_devices(0)
+03-13 16:10:34.521: D/audio_hw_primary(2846): enable_snd_device: snd_device(114: voice-rec-mic)
+03-13 16:10:34.522: I/MicrophoneInputStream(5256): mic_started  SR : 16000 CC : 16 SO : 1999
+03-13 16:10:34.523: W/APM_AudioPolicyManager(2846): releaseInput() releasing unknown input 1670
+03-13 16:10:34.523: V/audio_hw_primary(2846): enable_audio_route: enter: usecase(16)
+03-13 16:10:34.523: I/audio_hw_utils(2846): audio_extn_utils_send_app_type_cfg CAPTURE app_type 69938, acdb_dev_id 4, sample_rate 48000
+03-13 16:10:34.524: I/audio_hw_utils(2846): audio_extn_utils_send_app_type_cfg:becf: adm: app_type 69938, acdb_dev_id 4, sample_rate 48000
+03-13 16:10:34.524: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(114) num devices(1) new_snd_devices(114)
+03-13 16:10:34.524: V/msm8916_platform(2846): platform_send_audio_calibration: sending audio calibration for snd_device(114) acdb_id(4)
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_audio_cal, acdb_id = 4, path = 1, app id = 0x11132, sample rate = 48000
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_asm_topology
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_adm_topology
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_audtable
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE_SIZE
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_AUDPROC_CAL
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_audvoltable
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE, vol index 0
+03-13 16:10:34.524: D/(2846): Failed to fetch the lookup information of the device 00000004 
+03-13 16:10:34.524: E/ACDB-LOADER(2846): Error: ACDB AudProc vol returned = -19
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_VOL_CAL cal type = 12
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_audstrmtable
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_V2
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> audstrm_cal->cal_type.cal_data.cal_size = 16
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_afe_topology
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AFE_TOPOLOGY_ID
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> GET_AFE_TOPOLOGY_ID for adcd_id 4, Topology Id 112fb
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_afe_cal
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+03-13 16:10:34.524: D/(2846): Failed to fetch the lookup information of the device 00000004 
+03-13 16:10:34.524: E/ACDB-LOADER(2846): Error: ACDB AFE returned = -19
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_AFE_CAL
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> send_hw_delay : acdb_id = 4 path = 1
+03-13 16:10:34.524: D/ACDB-LOADER(2846): ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+03-13 16:10:34.524: D/audio_hw_primary(2846): enable_audio_route: apply mixer and update path: audio-record
+03-13 16:10:34.525: D/audio_hw_primary(2846): enableNXPamp_isSpeakerDevice , enter 
+03-13 16:10:34.525: E/msm8916_platform(2846): check_is_speakerout: snd device 114 
+03-13 16:10:34.525: D/audio_hw_primary(2846):  enableNXPamp_isSpeakerDevice , exit 
+03-13 16:10:34.525: V/audio_hw_primary(2846): enable_audio_route: exit
+03-13 16:10:34.525: D/audio_hw_primary(2846): select_devices: done
+03-13 16:10:34.525: V/audio_hw_primary(2846): start_input_stream: Opening PCM device card_id(0) device_id(0), channels 1 format 0
+03-13 16:10:34.527: V/audio_hw_primary(2846): start_input_stream: pcm_prepare
+03-13 16:10:34.529: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.530: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.532: D/LauncherLog(5157): BadgeReceiver():: Asus badge update action
+03-13 16:10:34.532: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.533: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.534: W/BroadcastQueue(3188): Reject to launch app br.com.bb.android/10126 for broadcast: App Op 66
+03-13 16:10:34.537: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.537: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.538: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.538: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.539: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.541: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.542: D/LauncherLog(5157): BadgeReceiver():: pkg: com.whatsapp clz: com.whatsapp.Main user: UserHandle{0} count: 2 vip_count:0
+03-13 16:10:34.543: I/Launcher_badge(5157): Badge DB update: com.whatsapp|com.whatsapp.Main|0|2|0|null
+03-13 16:10:34.543: D/Launcher_badge(5157): LauncherProvider update badge db - badge-receiver-thread : com.asus.launcher
+03-13 16:10:34.545: D/Launcher_badge(5157): LauncherProvider notify badge update
+03-13 16:10:34.553: D/compound_icon(5157): updateBadgeCount forceUpdate? false
+03-13 16:10:34.553: D/Launcher_badge(5157): LauncherProvider query badge db - badge-receiver-thread : com.asus.launcher
+03-13 16:10:34.555: D/compound_icon(5157): updateUnreadBadgeCounts -------
+03-13 16:10:34.555: D/compound_icon(5157): ComponentInfo{com.whatsapp/com.whatsapp.Main}
+03-13 16:10:34.555: D/compound_icon(5157): -------------------------
+03-13 16:10:34.573: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.573: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.573: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.573: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.574: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.574: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.574: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.575: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.575: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.576: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.577: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.577: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.577: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.577: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.579: D/Tiny_ALSA(2846):  pcm_prepare getquinstatus() 0 ,g_speakerOpened 0 ,g_isTurnOnSpeaker 0
+03-13 16:10:34.579: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.579: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:34.579: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:34.579: D/audio_hw_primary(2846): start_input_stream: exit
+03-13 16:10:34.579: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:34.580: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:34.581: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:34.583: I/Adreno(6640): QUALCOMM build                   : dfab96b, I762e720a6a
+03-13 16:10:34.583: I/Adreno(6640): Build Date                       : 01/31/17
+03-13 16:10:34.583: I/Adreno(6640): OpenGL ES Shader Compiler Version: XE031.09.00.04
+03-13 16:10:34.583: I/Adreno(6640): Local Branch                     : 
+03-13 16:10:34.583: I/Adreno(6640): Remote Branch                    : 
+03-13 16:10:34.583: I/Adreno(6640): Remote Branch                    : 
+03-13 16:10:34.583: I/Adreno(6640): Reconstruct Branch               : 
+03-13 16:10:34.591: I/OpenGLRenderer(6640): Initialized EGL, version 1.4
+03-13 16:10:34.591: D/OpenGLRenderer(6640): Swap behavior 1
+03-13 16:10:34.597: I/MicroDetectionWorker(5256): onReady
+03-13 16:10:34.622: I/keyguard(4222): AsusSlideshowManager:updateSlideshowInformation: imageSource: false
+03-13 16:10:34.622: I/keyguard(4222): AsusSlideshowManager:setSlideshowInformationTitle: null, view: true
+03-13 16:10:34.622: I/keyguard(4222): AsusKgBottomAreaZen35:setSlideshowInformationTextView: null
+03-13 16:10:34.622: I/keyguard(4222): TargetContainer:initDrag
+03-13 16:10:34.623: E/keyguard(4222): FramesHelp:not support no path data
+03-13 16:10:34.623: I/keyguard(4222): TargetContainer:initDrag
+03-13 16:10:34.623: E/keyguard(4222): FramesHelp:not support no path data
+03-13 16:10:34.623: D/StatusBar(4222): onNotificationPosted: StatusBarNotification(pkg=com.whatsapp user=UserHandle{0} id=1 tag=555181438757@s.whatsapp.net key=0|com.whatsapp|1|555181438757@s.whatsapp.net|10116: Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)))
+03-13 16:10:34.624: D/StatusBar(4222): onNotificationPosted: StatusBarNotification(pkg=com.whatsapp user=UserHandle{0} id=1 tag=null key=0|com.whatsapp|1|null|10116: Notification(pri=1 contentView=null vibrate=default sound=content://settings/system/notification_sound tick defaults=0x2 flags=0x200 color=0xff075e54 category=msg groupKey=group_key_messages vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)))
+03-13 16:10:34.624: I/keyguard(4222): AsusFirstKGUnlockedMonitor:getSettingsForFirstKGUnlocked()  settings: true
+03-13 16:10:34.624: I/keyguard(4222): AsusFirstKGUnlockedMonitor:getSettingsForFirstKGUnlocked()  settings: true
+03-13 16:10:34.626: D/keyguard(4222): AsusClockContainer_L:addWeatherWidget: createView, id=2
+03-13 16:10:34.629: V/weather(6049): WeatherWidgetProviderPhone> onAppWidgetOptionsChanged 2
+03-13 16:10:34.650: V/weather(6049): BroadcastUtils> sendUpdateLockscreenIcon 0 false
+03-13 16:10:34.680: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:34.680: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:34.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:34.737: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) not found in mGroupMap
+03-13 16:10:34.737: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) isGroupChild
+03-13 16:10:34.791: I/ActivityManager(3188): Setting hasTopUi=true for pid=4222
+03-13 16:10:34.792: D/PhoneStatusBar(4222): disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock search quick_settings >
+03-13 16:10:34.798: I/ActivityManager(3188): Setting hasTopUi=false for pid=4222
+03-13 16:10:34.801: D/NotificationGroupManager(4222): Notification(pri=1 contentView=null vibrate=default sound=content://settings/system/notification_sound tick defaults=0x2 flags=0x200 color=0xff075e54 category=msg groupKey=group_key_messages vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) !isGroupChild
+03-13 16:10:34.805: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) not found in mGroupMap
+03-13 16:10:34.806: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) !isGroupChild
+03-13 16:10:34.818: I/keyguard(4222): AsusWeatherDataMonitor: :onReceive: com.asus.weathertime.ACTION_UPDATE_LOCKSCREEN_ICON
+03-13 16:10:34.826: E/WindowManager(3188): Performed 6 layouts in a row. Skipping
+03-13 16:10:34.829: W/IInputConnectionWrapper(5157): reportFullscreenMode on inexistent InputConnection
+03-13 16:10:34.829: I/GoogleInputMethod(4175): onStartInput() : Dummy InputConnection bound
+03-13 16:10:34.836: I/QTI PowerHAL(3188): Got wifi_hint
+03-13 16:10:34.837: I/ActivityManager(3188): Displayed com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity: +612ms [aosp]
+03-13 16:10:34.838: D/ActivityTrigger(3188): ActivityTrigger activityStopTrigger 
+03-13 16:10:34.840: D/LauncherLog(5157): Launcher onStop Begin
+03-13 16:10:34.840: D/LauncherLog(5157): Launcher onStop End
+03-13 16:10:34.858: V/GoogleTagManager(5157): Dispatch call queued. Dispatch will run once initialization is complete.
+03-13 16:10:34.859: D/TaskWatcherService(4505): pkgName: com.aquiris.horizonchase taskId: 691
+03-13 16:10:34.860: W/ContextImpl(4505): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1357 android.content.ContextWrapper.startService:620 com.asus.powersaver.TaskWatcherService$IncomingHandler.handleMessage:-1 android.os.Handler.dispatchMessage:102 android.os.Looper.loop:159 
+03-13 16:10:34.861: D/WindowManager(3188): FINISH_LAYOUT_REDO_LAYOUT && FINISH_LAYOUT_REDO_WALLPAPER
+03-13 16:10:34.871: W/ContextImpl(4505): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:877 android.content.ContextWrapper.sendBroadcast:428 com.asus.powersaver.TaskWatcherService$IncomingHandler.handleMessage:-1 android.os.Handler.dispatchMessage:102 android.os.Looper.loop:159 
+03-13 16:10:34.873: D/OpenedTimeAppInfoProvider(4505): Update DB : number of affected records : 1
+03-13 16:10:34.880: I/GameWidgetReceiver(3852): onReceive :com.asus.gamewidget.app.START
+03-13 16:10:34.880: V/Utils(3852): disableToolbarByCountryCode: Country code list not updated, skip
+03-13 16:10:34.881: D/PowerSaverService(4505): onStartCommand PowerSaverService:
+03-13 16:10:34.881: D/PowerSaverService(4505): onStartCommand  action:null
+03-13 16:10:34.884: D/PowerSaverService(4505): current package:com.aquiris.horizonchase;activity:com.unity3d.player.UnityPlayerActivity
+03-13 16:10:34.884: D/PowerSaverUtils(4505): isLimitedCpuFrequency prop : 0 ; result : false
+03-13 16:10:34.885: I//system/bin/onFgAppChanged(6678): bFound=0;thermald_mode=0;next_thermald_mode=0
+03-13 16:10:34.885: I/AppOpsStatusUpdateHandler(4505): pkgName = com.aquiris.horizonchase
+03-13 16:10:34.885: I/AppOpsStatusUpdateHandler(4505): taskId = 691
+03-13 16:10:34.885: D/CNAppLockHandler(4505): CNAppLockHandler handleAppFocus
+03-13 16:10:34.886: D/GameWidgetService(3852): onCreate
+03-13 16:10:34.898: D/FOCUS_FOREGROUND_MONITOR(4505): Show Visual Mode:Game Mode
+03-13 16:10:34.903: I/VisualMasterCommand(4505): result :; HIT: Game, L/I:0/-; HIT: Can not open /dev/cadiz; HIT: Read HDISP and VDISP fail; HIT: Can not open /dev/cadiz; HIT: Read HTOTAL fail; HIT: Set by-pass all on; HIT: Can not open /dev/cadiz; HIT: Read iBC 0x0C14 fail; HIT: Can not open /dev/cadiz; HIT: Read by-pass 0x0901 fail; HIT: Can not open /dev/cadiz
+03-13 16:10:34.903: I/DpmTcmClient(3852): RegisterTcmMonitor from: com.android.okhttp.TcmIdleTimerMonitor
+03-13 16:10:34.909: I/WindowManager(3188): Screen frozen for +657ms due to Window{63777cf u0 com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity}
+03-13 16:10:34.913: D/GameWidgetService(3852): onStartCommand: ACTION_START_SERVICE
+03-13 16:10:34.913: I/GameUtils(3852): updateDB package:com.asus.gamewidget.status, category: com.aquiris.horizonchase, isAutoStart:true, isGame:false
+03-13 16:10:34.914: D/GameBroadcasterService(3877): onCreate
+03-13 16:10:34.920: I/ActivityManager(3188): Setting hasTopUi=true for pid=4222
+03-13 16:10:34.925: V/GameWidgetService(3852): showFloatingWidget(true) mServiceCreated=true
+03-13 16:10:34.943: E/Unity(6640): Unable to find AudioPluginMsHRTF
+03-13 16:10:34.943: E/Unity(6640): Unable to find AudioPluginOculusSpatializer
+03-13 16:10:34.944: E/Unity(6640): Unable to find libAudioPluginOculusSpatializer
+03-13 16:10:34.946: D/WindowManager(3188): adjustConfigurationLw, config:{0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/v s.128} mLidState:-1 mHasDockFeature:false mHasKeyboardFeature:false mHasHallSensorFeature:false config.hardKeyboardHidden:2
+03-13 16:10:34.950: D/StatusBar(4222): onNotificationPosted: StatusBarNotification(pkg=com.asus.gamewidget user=UserHandle{0} id=1 tag=null key=0|com.asus.gamewidget|1|null|10027: Notification(pri=2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x72 color=0x00000000 actions=1 vis=SECRET))
+03-13 16:10:34.953: D/PhoneStatusBar(4222): disable: < expand icons* alerts system_info* back home recent clock search quick_settings >
+03-13 16:10:34.966: D/WindowManager(3188): adjustConfigurationLw, config:{0 0.85 724mcc4mnc [pt_BR] ldltr sw423dp w752dp h399dp 408dpi nrml long land finger -keyb/v/h -nav/v s.128} mLidState:-1 mHasDockFeature:false mHasKeyboardFeature:false mHasHallSensorFeature:false config.hardKeyboardHidden:2
+03-13 16:10:34.972: D/Unity(6640):  GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_hdr GL_OES_texture_compression_astc GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_border_clamp GL_EXT_multisampled_render_to_texture GL_OES_sha
+03-13 16:10:34.972: D/Unity(6640): der_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_EXT_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker GL_OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_EXT_buffer_storage GL_EXT_blit_framebuffer_params GL_EXT_clip_cull_distance GL_EXT_protected_textures GL_EXT_shader_non_constant_global_i
+03-13 16:10:34.972: D/Unity(6640): nitializers
+03-13 16:10:35.017: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:35.017: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:35.020: V/audio_hw_primary(2846): out_get_latency: Latency 8
+03-13 16:10:35.020: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:35.021: V/audio_hw_primary(2846): out_get_latency: Latency 64
+03-13 16:10:35.022: V/audio_hw_primary(2846): out_get_latency: Latency 8
+03-13 16:10:35.022: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:35.022: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:35.022: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:35.022: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:35.026: I/AudioPolicyManagerCustom(2846): Direct PCM is disabled for this request
+03-13 16:10:35.026: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:35.026: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:35.026: V/audio_hw_primary(2846): out_get_parameters: enter: keys - is_direct_pcm_track
+03-13 16:10:35.026: D/compress_voip(2846): voice_extn_compress_voip_out_get_parameters: enter
+03-13 16:10:35.026: V/audio_hw_primary(2846): not in direct_pcm
+03-13 16:10:35.026: V/audio_hw_primary(2846): out_get_parameters: exit: returns - is_direct_pcm_track=false
+03-13 16:10:35.027: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:35.029: D/AudioTrack(6640): Client defaulted notificationFrames to 706 for frameCount 2120
+03-13 16:10:35.030: E/AudioFlinger(2846): start : chmod playbackstatus.info error
+03-13 16:10:35.030: D/APM_AudioPolicyManager(2846): startOutput() output 21, stream 3, session 3081
+03-13 16:10:35.030: D/APM_AudioPolicyManager(2846): will call setAudioWizardForcePreset 
+03-13 16:10:35.030: V/AudioPolicyManagerCustom(2846): getNewOutputDevice() selected device 2
+03-13 16:10:35.031: D/audio_hw_primary(2846): out_set_parameters: enter: usecase(0: deep-buffer-playback) kvpairs: routing=2
+03-13 16:10:35.031: V/audio_hw_primary(2846): out_set_parameters: exit: code(0)
+03-13 16:10:35.031: I/SoundChannelObserver(5112): num=2
+03-13 16:10:35.031: I/SoundChannelObserver(5112): num=2
+03-13 16:10:35.038: V/AudioPolicyManagerCustom(2846): checkAndSetVolume() cannot set stream 6 volume with force use = 0 for comm
+03-13 16:10:35.038: V/AudioPolicyManagerCustom(2846): startOutput: device 0x2 all_devices 0x3
+03-13 16:10:35.038: V/AudioUtil(2846): nothing to update to route node
+03-13 16:10:35.042: D/audio_hw_primary(2846): start_output_stream: enter: stream(0xf1a59400)usecase(0: deep-buffer-playback) devices(0x2)
+03-13 16:10:35.042: D/audio_hw_primary(2846): select_devices for use case (deep-buffer-playback)
+03-13 16:10:35.042: V/msm8916_platform(2846): platform_get_native_support:napb: ui Prop enabled(0) version(0)
+03-13 16:10:35.042: D/msm8916_platform(2846): platform_get_output_snd_device: bt_devices_type : 0
+03-13 16:10:35.042: D/msm8916_platform(2846): platform_get_output_snd_device: FM is off
+03-13 16:10:35.042: D/msm8916_platform(2846): is_beetalk = false
+03-13 16:10:35.042: V/msm8916_platform(2846): platform_get_output_snd_device: enter: output devices(0x2) mode(0) source(6)
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_get_output_snd_device: exit: snd_device(speaker)
+03-13 16:10:35.043: D/audio_hw_primary(2846): select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_get_backend_index:napb: backend port - 0 device - 2 
+03-13 16:10:35.043: I/msm8916_platform(2846): platform_check_and_set_codec_backend_cfg:becf: afe: bitwidth 24, samplerate 48000 channels 2, backend_idx 0 usecase = 0 device (speaker)
+03-13 16:10:35.043: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+03-13 16:10:35.043: I/msm8916_platform(2846): platform_check_and_set_codec_backend_cfg: becf: new_snd_devices[0] is speaker
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_get_native_support:napb: ui Prop enabled(0) version(0)
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_get_backend_index:napb: backend port - 0 device - 2 
+03-13 16:10:35.043: I/msm8916_platform(2846): platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 current bit width: 24 sample rate: 48000 channels: 2
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_get_native_support:napb: ui Prop enabled(0) version(0)
+03-13 16:10:35.043: V/audio_hw_primary(2846): audio_is_true_native_stream_active:napb: not in true mode or non hdphones device
+03-13 16:10:35.043: D/msm8916_platform(2846): platform_check_codec_backend_cfg:becf: afe: playback on non-44.1-support device Configure afe to default Sample Rate(48k)
+03-13 16:10:35.043: I/msm8916_platform(2846): platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 updated bit width: 24 and sample rate: 48000
+03-13 16:10:35.043: D/audio_hw_primary(2846): check_usecases_codec_backend:becf: force routing 0
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_check_backends_match: snd_device1 = speaker, snd_device2 = 
+03-13 16:10:35.043: E/msm8916_platform(2846): platform_check_backends_match: Invalid snd_device = 
+03-13 16:10:35.043: D/audio_hw_primary(2846): check_usecases_codec_backend:becf: (40) check_usecases curr device: speaker, usecase device: backends match 0
+03-13 16:10:35.043: V/msm8916_platform(2846): platform_check_backends_match: snd_device1 = speaker, snd_device2 = 
+03-13 16:10:35.043: E/msm8916_platform(2846): platform_check_backends_match: Invalid snd_device = 
+03-13 16:10:35.043: D/audio_hw_primary(2846): check_usecases_codec_backend:becf: (40) check_usecases curr device: speaker, usecase device: backends match 0
+03-13 16:10:35.043: D/audio_hw_primary(2846): check_usecases_codec_backend:becf: check_usecases num.of Usecases to switch 0
+03-13 16:10:35.043: D/hardware_info(2846): hw_info_append_hw_type : device_name = speaker
+03-13 16:10:35.043: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+03-13 16:10:35.043: D/audio_hw_primary(2846): enable_snd_device: snd_device(2: speaker)
+03-13 16:10:35.043: D/aud_dev_arbi(2846): acquireOneDevice: device owner for device 2 is 1
+03-13 16:10:35.043: I/audio_hw_utils(2846): audio_extn_utils_update_stream_app_type_cfg Allowing 24-bit playback on speaker ONLY at default sampling rate
+03-13 16:10:35.044: I/audio_hw_primary(2846): select_devices Selected apptype: 69937
+03-13 16:10:35.044: V/audio_hw_primary(2846): enable_audio_route: enter: usecase(0)
+03-13 16:10:35.044: E/audio_hw_dolby(2846): audio_extn_dolby_ds2_set_endpoint: Dolby set endpint :0x2
+03-13 16:10:35.044: I/audio_hw_utils(2846): audio_extn_utils_send_app_type_cfg PLAYBACK app_type 69937, acdb_dev_id 14, sample_rate 48000
+03-13 16:10:35.044: I/audio_hw_utils(2846): audio_extn_utils_send_app_type_cfg:becf: adm: app_type 69936, acdb_dev_id 14, sample_rate 48000
+03-13 16:10:35.044: D/msm8916_platform(2846): platform_can_split_snd_device: snd_device(2) num devices(1) new_snd_devices(-242709281)
+03-13 16:10:35.044: V/msm8916_platform(2846): platform_send_audio_calibration: sending audio calibration for snd_device(2) acdb_id(14)
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_audio_cal, acdb_id = 14, path = 0, app id = 0x11131, sample rate = 48000
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_asm_topology
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_adm_topology
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_audtable
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE_SIZE
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_AUDPROC_CAL
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_audvoltable
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE, vol index 0
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_VOL_CAL cal type = 12
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> send_audstrmtable
+03-13 16:10:35.044: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_V2
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> audstrm_cal->cal_type.cal_data.cal_size = 16
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> send_afe_topology
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AFE_TOPOLOGY_ID
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> GET_AFE_TOPOLOGY_ID for adcd_id 14, Topology Id 1025e
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> send_afe_cal
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> AUDIO_SET_AFE_CAL
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> send_hw_delay : acdb_id = 14 path = 0
+03-13 16:10:35.045: D/ACDB-LOADER(2846): ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+03-13 16:10:35.045: D/audio_hw_primary(2846): enable_audio_route: apply mixer and update path: deep-buffer-playback speaker
+03-13 16:10:35.046: D/audio_hw_primary(2846): enableNXPamp_isSpeakerDevice , enter 
+03-13 16:10:35.046: E/msm8916_platform(2846): check_is_speakerout: snd device 2 
+03-13 16:10:35.046: D/Tiny_ALSA(2846):  g_tfaMode 0 g_speakerOpened 0 
+03-13 16:10:35.046: D/msm8916_platform(2846): is_beetalk = false
+03-13 16:10:35.046: D/audio_hw_primary(2846): enableNXPamp_isSpeakerDevice ,enable_speaker_amp:1 mode:0,isSpkOpened:0 modeSeted:0,snd_dev_ref_cnt:1 
+03-13 16:10:35.046: D/audio_hw_primary(2846): isTurnOnSpeaker:1 mode:0, 
+03-13 16:10:35.046: D/Tiny_ALSA(2846): set_exTfa98xx_speaker_mode ,mode 0 ,isTurnOnSpeaker 1 ,g_speakerOpened 0, I2S status 0
+03-13 16:10:35.046: D/Tiny_ALSA(2846):  set_exTfa98xx_speaker_mode line:140
+03-13 16:10:35.046: D/audio_hw_primary(2846):  enableNXPamp_isSpeakerDevice , exit 
+03-13 16:10:35.046: V/audio_hw_primary(2846): enable_audio_route: exit
+03-13 16:10:35.046: D/audio_hw_primary(2846): select_devices: done
+03-13 16:10:35.046: V/audio_hw_primary(2846): start_output_stream: Opening PCM device card_id(0) device_id(0) format(0x4)
+03-13 16:10:35.046: D/audio_hw_primary(2846): start_output_stream:2098  pcm_open
+03-13 16:10:35.048: V/msm8916_platform(2846): platform_set_channel_map channel_count:2
+03-13 16:10:35.048: D/msm8916_platform(2846): platform_set_channel_map mixer_ctl_name:Playback Channel Map0
+03-13 16:10:35.049: D/msm8916_platform(2846): platform_set_channel_map: set mapping(1 2 0 0 0 0 0 0) for channel:2
+03-13 16:10:35.049: V/audio_hw_primary(2846): start_output_stream: pcm_prepare
+03-13 16:10:35.049: D/NotificationGroupManager(4222): Notification(pri=2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x72 color=0x00000000 actions=1 vis=SECRET) not found in mGroupMap
+03-13 16:10:35.049: D/NotificationGroupManager(4222): Notification(pri=2 contentView=null vibrate=null sound=null defaults=0x0 flags=0x72 color=0x00000000 actions=1 vis=SECRET) !isGroupChild
+03-13 16:10:35.069: E/ActivityManager(3188): Sending non-protected broadcast asus.intent.action.VOICE_MODE from system uid 1000 pkg null
+03-13 16:10:35.069: E/ActivityManager(3188): java.lang.Throwable
+03-13 16:10:35.069: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:18290)
+03-13 16:10:35.069: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:18766)
+03-13 16:10:35.069: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.broadcastIntent(ActivityManagerService.java:18973)
+03-13 16:10:35.069: E/ActivityManager(3188): 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:499)
+03-13 16:10:35.069: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2927)
+03-13 16:10:35.069: E/ActivityManager(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:35.078: E/ActivityManager(3188): Sending non-protected broadcast asus.intent.action.VOICE_MODE from system uid 1000 pkg null
+03-13 16:10:35.078: E/ActivityManager(3188): java.lang.Throwable
+03-13 16:10:35.078: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:18290)
+03-13 16:10:35.078: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:18857)
+03-13 16:10:35.078: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.broadcastIntent(ActivityManagerService.java:18973)
+03-13 16:10:35.078: E/ActivityManager(3188): 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:499)
+03-13 16:10:35.078: E/ActivityManager(3188): 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2927)
+03-13 16:10:35.078: E/ActivityManager(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:35.085: D/Tiny_ALSA(2846):  pcm_prepare getquinstatus() 1 ,g_speakerOpened 0 ,g_isTurnOnSpeaker 1
+03-13 16:10:35.085: D/tfa98xx(2846): exTfa98xx_speakeron: mode 0, setmode 0
+03-13 16:10:35.085: D/tfa98xx(2846): load_container_file: tfaReadFile return size is 7359
+03-13 16:10:35.085: D/tfa98xx(2846): [WPI] Loaded container file /system/etc/settings/Tfa9891_mono.cnt.
+03-13 16:10:35.086: D/tfa98xx(2846): exTfa98xx_speakeron: tfa start with volume 0.
+03-13 16:10:35.090: D/SAR_Audio_Voice(6722): sendBroadcast(asus.intent.action.VOICE_MODE) succeed
+03-13 16:10:35.092: D/tfa98xx(2846): exTfa98xx_speakeron: start use case success
+03-13 16:10:35.093: D/tfa98xx(2846): handles 0
+03-13 16:10:35.093: D/tfa98xx(2846): [WPI] exTfa98xx status reg is 0xd05f
+03-13 16:10:35.093: D/tfa98xx(2846): status checking ok
+03-13 16:10:35.093: D/tfa98xx(2846): exTfa98xx_speakeron: exTfa98xx start use case success
+03-13 16:10:35.093: D/Tiny_ALSA(2846): pcm_prepare,turn on tfa successfully
+03-13 16:10:35.093: D/audio_hw_primary(2846): start_output_stream: exit
+03-13 16:10:35.143: E/ASUSGameDBHelper(3852): server version: 107
+03-13 16:10:35.143: E/ASUSGameDBHelper(3852): current version: 107 is latest
+03-13 16:10:35.144: E/ForumDBHelper(3852): server version: 108
+03-13 16:10:35.145: E/ForumDBHelper(3852): current version: 108 is latest
+03-13 16:10:35.189: D/AudioFlinger(2846): mixer(0xf0a83200) throttle end: throttle time(41)
+03-13 16:10:35.470: W/Unity(6640): OnLevelWasLoaded was found on InControlGamepadListener
+03-13 16:10:35.470: W/Unity(6640): This message has been deprecated and will be removed in a later version of Unity.
+03-13 16:10:35.470: W/Unity(6640): Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+03-13 16:10:35.470: W/Unity(6640):  
+03-13 16:10:35.470: W/Unity(6640): (Filename:  Line: 376)
+03-13 16:10:35.621: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:35.643: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:35.851: I/qti_sensors_hal(3188): SMGRSensor::flush for batching
+03-13 16:10:35.851: I/qti_sensors_hal(3188): SMGRReportAdd:sensor(android.sensor.accelerometer) handle=0, sample_rate=50.000000 report_rate=0 buffer=0
+03-13 16:10:35.851: I/qti_sensors_hal(3188): SMGRPrepareAddMsg sample_rate 50.000000 report_rate 3276800 subhz_sample_rate_ms 0 sample_rate_hz 50
+03-13 16:10:35.852: I/qti_sensors_hal(3188): batch:sensor(android.sensor.accelerometer) handle:0 flags:0x0 period_ns 20000000
+03-13 16:10:35.852: I/qti_sensors_hal(3188): batch: current sample rate, report rate & buffering are equal to requested (50.000000,0.000000,0)
+03-13 16:10:35.853: I/qti_sensors_hal(3188): processBufferingResp: Id: 0 Resp: 0 txn id 85
+03-13 16:10:35.864: V/MediaRouter(6640): Adding route: RouteInfo{ name=Telefone, description=null, status=null, category=RouteCategory{ name=null types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+03-13 16:10:35.868: V/MediaRouter(6640): Updating audio routes: AudioRoutesInfo{ type=SPEAKER }
+03-13 16:10:35.872: V/MediaRouter(6640): Selecting route: RouteInfo{ name=Telefone, description=null, status=null, category=RouteCategory{ name=null types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+03-13 16:10:36.663: D/Launcher_badge(5157): LauncherProvider query badge db - Binder:5157_2 : android.uid.systemui:10012
+03-13 16:10:36.666: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity} count:0
+03-13 16:10:36.666: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity} count:5
+03-13 16:10:36.666: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail} count:0
+03-13 16:10:36.918: I/art(3188): Starting a blocking GC Explicit
+03-13 16:10:36.983: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:32,ssid="Aquiris"
+03-13 16:10:36.983: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-64,lastModified=03-13 04:10:32,ssid="Aquiris"
+03-13 16:10:36.983: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:36.984: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:36.985: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:36.985: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:36.987: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:36.987: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:36.987: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:36.987: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:36.988: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:36.989: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.088: I/art(3188): Explicit concurrent mark sweep GC freed 73244(3MB) AllocSpace objects, 22(1592KB) LOS objects, 33% free, 30MB/45MB, paused 1.724ms total 170.228ms
+03-13 16:10:37.354: D/StatusBar(4222): onNotificationPosted: StatusBarNotification(pkg=com.whatsapp user=UserHandle{0} id=1 tag=555181438757@s.whatsapp.net key=0|com.whatsapp|1|555181438757@s.whatsapp.net|10116: Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)))
+03-13 16:10:37.363: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) not found in mGroupMap
+03-13 16:10:37.363: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) !isGroupChild
+03-13 16:10:37.369: D/LauncherLog(5157): BadgeReceiver():: Asus badge update action
+03-13 16:10:37.370: W/BroadcastQueue(3188): Reject to launch app br.com.bb.android/10126 for broadcast: App Op 66
+03-13 16:10:37.381: D/LauncherLog(5157): BadgeReceiver():: pkg: com.whatsapp clz: com.whatsapp.Main user: UserHandle{0} count: 3 vip_count:0
+03-13 16:10:37.382: I/Launcher_badge(5157): Badge DB update: com.whatsapp|com.whatsapp.Main|0|3|0|null
+03-13 16:10:37.382: D/Launcher_badge(5157): LauncherProvider update badge db - badge-receiver-thread : com.asus.launcher
+03-13 16:10:37.385: D/Launcher_badge(5157): LauncherProvider notify badge update
+03-13 16:10:37.391: D/compound_icon(5157): updateBadgeCount forceUpdate? false
+03-13 16:10:37.392: D/Launcher_badge(5157): LauncherProvider query badge db - badge-receiver-thread : com.asus.launcher
+03-13 16:10:37.394: D/compound_icon(5157): updateUnreadBadgeCounts -------
+03-13 16:10:37.394: D/compound_icon(5157): ComponentInfo{com.whatsapp/com.whatsapp.Main}
+03-13 16:10:37.394: D/compound_icon(5157): -------------------------
+03-13 16:10:37.455: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) isGroupChild
+03-13 16:10:37.492: D/StatusBar(4222): onNotificationPosted: StatusBarNotification(pkg=com.whatsapp user=UserHandle{0} id=1 tag=null key=0|com.whatsapp|1|null|10116: Notification(pri=1 contentView=null vibrate=default sound=content://settings/system/notification_sound tick defaults=0x2 flags=0x200 color=0xff075e54 category=msg groupKey=group_key_messages vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)))
+03-13 16:10:37.512: D/NotificationGroupManager(4222): Notification(pri=1 contentView=null vibrate=default sound=content://settings/system/notification_sound tick defaults=0x2 flags=0x200 color=0xff075e54 category=msg groupKey=group_key_messages vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) !isGroupChild
+03-13 16:10:37.587: D/PhoneStatusBar(4222): disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock search quick_settings >
+03-13 16:10:37.593: I/ActivityManager(3188): Setting hasTopUi=false for pid=4222
+03-13 16:10:37.602: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) not found in mGroupMap
+03-13 16:10:37.602: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) !isGroupChild
+03-13 16:10:37.651: I/ActivityManager(3188): Setting hasTopUi=true for pid=4222
+03-13 16:10:37.666: E/Layer(521): [StatusBar] rejecting buffer: bufWidth=1920, bufHeight=61, front.active.{w=1920, h=1080}
+03-13 16:10:37.682: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.683: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.684: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.684: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.686: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.686: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.686: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.687: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.688: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.689: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.719: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.719: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.719: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.719: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.721: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.721: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.721: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.722: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.723: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.725: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.726: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.726: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.726: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.727: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.728: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.728: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.728: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.729: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.729: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.730: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.734: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.735: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.735: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.735: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.737: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.737: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.738: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.738: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.739: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.741: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.768: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.768: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.769: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.769: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.771: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.771: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.771: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.772: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.772: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.774: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.774: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.775: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.776: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.776: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.778: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.778: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.778: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.779: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:37.779: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.780: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.988: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-64,lastModified=03-13 04:10:36,ssid="Aquiris"
+03-13 16:10:37.988: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:36,ssid="Aquiris"
+03-13 16:10:37.989: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.989: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.991: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:37.991: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:37.996: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:37.997: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:37.997: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:37.998: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:37.998: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:38.000: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:38.664: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:38.667: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:39.504: D/Launcher_badge(5157): LauncherProvider query badge db - Binder:5157_1 : android.uid.systemui:10012
+03-13 16:10:39.509: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity} count:0
+03-13 16:10:39.509: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity} count:5
+03-13 16:10:39.509: I/keyguard(4222): AsusShortcutManager:handleUpdateUnreadCount2 comp:ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail} count:0
+03-13 16:10:39.687: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:39.688: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:39.688: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:39.689: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:39.689: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:39.690: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:39.690: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:39.691: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:39.990: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:37,ssid="Aquiris"
+03-13 16:10:39.990: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-64,lastModified=03-13 04:10:37,ssid="Aquiris"
+03-13 16:10:39.991: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:39.991: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:39.993: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:10:39.993: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:39.994: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:39.995: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:39.995: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:39.995: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:10:39.995: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:39.997: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:40.208: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:10:40.241: E/ReloadingLock(5256): Finalizing LOCKED Token[shortcuts 2018-03-13 16:10:28.445]
+03-13 16:10:40.435: D/NetworkSecurityConfig(6640): No Network Security Config specified, using platform default
+03-13 16:10:40.438: I/DpmTcmClient(6640): RegisterTcmMonitor from: com.android.okhttp.TcmIdleTimerMonitor
+03-13 16:10:40.992: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-64,lastModified=03-13 04:10:39,ssid="Aquiris"
+03-13 16:10:40.992: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:39,ssid="Aquiris"
+03-13 16:10:40.992: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:40.992: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:40.993: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:40.993: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:40.994: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:40.994: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:40.995: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:40.995: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:40.995: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:40.996: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:41.130: W/SensorService(3188): sensor 00000001 already enabled in connection 0x7f6667e4e0 (ignoring)
+03-13 16:10:41.130: I/qti_sensors_hal(3188): SMGRSensor::flush for batching
+03-13 16:10:41.130: I/qti_sensors_hal(3188): SMGRReportAdd:sensor(android.sensor.accelerometer) handle=0, sample_rate=50.000000 report_rate=0 buffer=0
+03-13 16:10:41.130: I/qti_sensors_hal(3188): SMGRPrepareAddMsg sample_rate 50.000000 report_rate 3276800 subhz_sample_rate_ms 0 sample_rate_hz 50
+03-13 16:10:41.130: I/qti_sensors_hal(3188): batch:sensor(android.sensor.accelerometer) handle:0 flags:0x0 period_ns 20000000
+03-13 16:10:41.130: I/qti_sensors_hal(3188): batch: current sample rate, report rate & buffering are equal to requested (50.000000,0.000000,0)
+03-13 16:10:41.131: I/qti_sensors_hal(3188): processBufferingResp: Id: 0 Resp: 0 txn id 85
+03-13 16:10:41.152: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:41.152: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:41.152: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:41.152: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:41.153: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:41.153: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:41.155: I/AudioPolicyManagerCustom(2846): Direct PCM is disabled for this request
+03-13 16:10:41.155: I/AudioPolicyManagerCustom(2846): setting force DEEP buffer now 
+03-13 16:10:41.155: V/AudioPolicyManagerCustom(2846): getOutputForDevice() returns output 21
+03-13 16:10:41.156: V/audio_hw_primary(2846): out_get_parameters: enter: keys - is_direct_pcm_track
+03-13 16:10:41.156: D/compress_voip(2846): voice_extn_compress_voip_out_get_parameters: enter
+03-13 16:10:41.156: V/audio_hw_primary(2846): not in direct_pcm
+03-13 16:10:41.156: V/audio_hw_primary(2846): out_get_parameters: exit: returns - is_direct_pcm_track=false
+03-13 16:10:41.156: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:41.157: D/AudioTrack(6640): Client defaulted notificationFrames to 706 for frameCount 2120
+03-13 16:10:41.158: E/AudioFlinger(2846): start : chmod playbackstatus.info error
+03-13 16:10:41.158: D/APM_AudioPolicyManager(2846): startOutput() output 21, stream 3, session 3089
+03-13 16:10:41.158: D/APM_AudioPolicyManager(2846): will call setAudioWizardForcePreset 
+03-13 16:10:41.158: V/AudioPolicyManagerCustom(2846): startOutput: device 0x2 all_devices 0x3
+03-13 16:10:41.158: V/AudioUtil(2846): nothing to update to route node
+03-13 16:10:41.158: I/SoundChannelObserver(5112): num=2
+03-13 16:10:41.159: I/SoundChannelObserver(5112): num=2
+03-13 16:10:41.189: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:41.229: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:41.266: I/QtiTetherService(5078): limitReached Alert received limitName: globalAlert on Interface: wlan0
+03-13 16:10:41.269: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:41.277: I/TetherStatsReporting(3188): getTetherStats() called 
+03-13 16:10:41.277: I/TetherStatsReporting(3188): combining tether stats
+03-13 16:10:41.278: D/QtiTetherService/IpaWrapper(5078): getStats(false)
+03-13 16:10:41.309: V/audio_hw_primary(2846): out_get_latency: Latency 80
+03-13 16:10:41.349: D/APM_AudioPolicyManager(2846): stopOutput() output 21, stream 3, session 3081
+03-13 16:10:41.581: I/Unity(6640): [OBBDownloadManager] Expansion filepath: /storage/emulated/0/Android/obb/com.aquiris.horizonchase
+03-13 16:10:41.593: I/Unity(6640): [OBBDownloadManager] downloading file:///storage/emulated/0/Android/obb/com.aquiris.horizonchase/main.10519.com.aquiris.horizonchase.obb
+03-13 16:10:41.688: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:41.691: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:42.102: W/power_metrics_r(18119): type=1400 audit(0.0:337): avc: denied { read } for name="mem" dev="debugfs" ino=1485840 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+03-13 16:10:42.102: W/power_metrics_r(18119): type=1400 audit(0.0:338): avc: denied { read } for name="mem" dev="debugfs" ino=1485840 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+03-13 16:10:42.378: I/Unity(6640): [OBBDownloadManager] Loading title scene.
+03-13 16:10:43.299: D/NotificationGroupManager(4222): Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x8 color=0xff075e54 groupKey=group_key_messages sortKey=1 actions=1 vis=PRIVATE publicVersion=Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x0 color=0xff075e54 category=msg vis=PRIVATE)) isGroupChild
+03-13 16:10:43.319: I/Finsky(3959): [405] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:43.324: I/Finsky(3959): [449] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:43.460: D/d(6640): In App Purchasing SDK - Sandbox Mode: PurchasingListener registered: com.onesignal.TrackAmazonPurchase$OSPurchasingListener@6a8b15b
+03-13 16:10:43.460: D/d(6640): In App Purchasing SDK - Sandbox Mode: PurchasingListener Context: android.app.Application@b603084
+03-13 16:10:43.498: I/Finsky(3959): [406] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:43.551: D/keyguard(4222): AsusDeviceModeManager:DB EasyMode: false  isEasyMode: false
+03-13 16:10:43.551: D/keyguard(4222): AsusEasyModeManager:shouldDoEffect KeyguardVisbile: false, EasyMode: false, Expanded: false
+03-13 16:10:43.551: D/keyguard(4222): AsusEasyModeManager:updateBlurEffect()  should: false mBluring: false
+03-13 16:10:43.566: D/keyguard(4222): AsusDeviceModeManager:DB EasyMode: false  isEasyMode: false
+03-13 16:10:43.566: D/keyguard(4222): AsusEasyModeManager:shouldDoEffect KeyguardVisbile: false, EasyMode: false, Expanded: false
+03-13 16:10:43.566: D/keyguard(4222): AsusEasyModeManager:updateBlurEffect()  should: false mBluring: false
+03-13 16:10:43.573: I/ActivityManager(3188): Setting hasTopUi=false for pid=4222
+03-13 16:10:43.577: D/PhoneStatusBar(4222): disable: < expand icons* alerts system_info* back home recent clock search quick_settings >
+03-13 16:10:43.613: D/keyguard(4222): AsusDeviceModeManager:DB EasyMode: false  isEasyMode: false
+03-13 16:10:43.613: D/keyguard(4222): AsusEasyModeManager:shouldDoEffect KeyguardVisbile: false, EasyMode: false, Expanded: false
+03-13 16:10:43.613: D/keyguard(4222): AsusEasyModeManager:updateBlurEffect()  should: false mBluring: false
+03-13 16:10:43.809: D/keyguard(4222): AsusDeviceModeManager:DB EasyMode: false  isEasyMode: false
+03-13 16:10:43.809: D/keyguard(4222): AsusEasyModeManager:shouldDoEffect KeyguardVisbile: false, EasyMode: false, Expanded: false
+03-13 16:10:43.809: D/keyguard(4222): AsusEasyModeManager:updateBlurEffect()  should: false mBluring: false
+03-13 16:10:43.896: D/GamesUnitySDK(6640): Performing Android initialization of the GPG SDK
+03-13 16:10:43.934: I/Unity(6640): Building GPG services, implicitly attempts silent auth
+03-13 16:10:43.936: I/GamesNativeSDK(6640): Using existing jar.
+03-13 16:10:43.936: I/GamesNativeSDK(6640): Writing 1941 bytes to jar file
+03-13 16:10:43.957: I/GamesNativeSDK(6640): Using existing jar.
+03-13 16:10:43.957: I/GamesNativeSDK(6640): Writing 1066 bytes to jar file
+03-13 16:10:44.013: W/PopupManager(6640): You have not specified a View to use as content view for popups. Falling back to the Activity content view. Note that this may not work as expected in multi-screen environments
+03-13 16:10:44.021: I/GamesNativeSDK(6640): Auth operation started: SIGN IN
+03-13 16:10:44.021: I/GamesNativeSDK(6640): Connecting to Google Play...
+03-13 16:10:44.088: W/ActivityManager(3188): App Op not allow to start app com.google.android.videos/10111
+03-13 16:10:44.089: E/NetworkScheduler.TED(5002): Couldn't start service: Intent { act=com.google.android.gms.gcm.ACTION_TASK_READY cmp=com.google.android.videos/com.google.android.apps.play.movies.common.service.drm.RefreshLicenseTaskService (has extras) }
+03-13 16:10:44.089: E/NetworkScheduler(5002): Unknown result code received: 4
+03-13 16:10:44.095: I/OneSignal(6640): Device registered, Google Registration ID = APA91bHfOrIEbYYK8OqueAU5pOgasacgGrI_w7nQaMUTnFo5fE4oorgWtDtLD7hx734LyIHyEJ6qJlK63XUZTttdBWPIoXS-4jPUyE-PPmSQVJTV-LcStKIEVAq819Y7GorHvJ5jHBZ9
+03-13 16:10:44.106: W/GamesServiceBroker(5050): Client connected with SDK 11020000, Services 12218448, and Games 55810048
+03-13 16:10:44.127: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:44.145: D/ApplicationLoaders(6640): ignored Vulkan layer search path /data/app/com.google.android.gms-2/lib/arm:/system/fake-libs:/data/app/com.google.android.gms-2/base.apk!/lib/armeabi-v7a for namespace 0xf5e0c090
+03-13 16:10:44.150: W/Unity(6640): !!! [Play Games Plugin DLL] 03/13/18 16:10:44 -03:00 WARNING: Creating new PlayGamesPlatform
+03-13 16:10:44.150: W/Unity(6640):  
+03-13 16:10:44.150: W/Unity(6640): (Filename: ./artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+03-13 16:10:44.277: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.277: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.277: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.277: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.277: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.277: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.328: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:44.368: V/GamesNativeSDK(6640): Play Games callback indicates connection.
+03-13 16:10:44.385: I/GamesNativeSDK(6640): Successfully connected to Google Play.
+03-13 16:10:44.418: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.418: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.418: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.418: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.418: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.418: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.419: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.419: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.419: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.419: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.419: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.419: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.448: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.448: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.448: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.448: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.448: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.448: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.450: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.450: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.450: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.450: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.450: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.450: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.466: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.466: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.466: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.466: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.466: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.466: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.467: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:44.467: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:44.467: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:44.467: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:44.467: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:44.467: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:44.641: I/Unity(6640): [SocialManager] User successfully authenticated.
+03-13 16:10:44.680: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:44.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:44.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:44.710: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:44.712: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:45.029: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:45.029: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:45.029: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:45.029: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:45.029: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:45.029: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:45.030: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:45.030: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:45.030: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:45.030: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:45.030: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:45.030: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:45.271: W/Unity(6640): DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+03-13 16:10:45.271: W/Unity(6640):  
+03-13 16:10:45.271: W/Unity(6640): (Filename:  Line: 481)
+03-13 16:10:45.391: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:45.505: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:45.509: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:45.509: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:45.509: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:45.509: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:45.509: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:45.509: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:45.510: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:45.510: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:45.510: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:45.510: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:45.510: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:45.510: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:45.896: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:46.049: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:46.053: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:46.053: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:46.053: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:46.053: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:46.053: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:46.053: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:46.054: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:46.054: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:46.054: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:46.054: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:46.054: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:46.054: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:46.409: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:46.565: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:46.579: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:46.579: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:46.579: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:46.579: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:46.579: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:46.579: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:46.580: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:46.580: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:46.580: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:46.580: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:46.580: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:46.580: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:46.898: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:47.072: V/eagle(2846): eagle pipeline proc call 212500 (size =1920, inCh=3, outCh=3, android fmt in=5, out=3) ret 0 
+03-13 16:10:47.075: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:47.076: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:47.076: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:47.076: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:47.076: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:47.076: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:47.076: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:47.077: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:47.077: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:47.077: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:47.077: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:47.077: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:47.077: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:47.251: V/GamesNativeSDK(6640): Snapshot was not committed, discarding.
+03-13 16:10:47.251: V/GamesNativeSDK(6640): Attached to JVM on thread -743442144
+03-13 16:10:47.402: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:47.584: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:47.597: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:47.597: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:47.597: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:47.597: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:47.597: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:47.597: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:47.599: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:47.599: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:47.599: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:47.599: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:47.599: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:47.599: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:47.731: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:47.734: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:47.955: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:48.119: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:48.126: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:48.126: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:48.126: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:48.126: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:48.126: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:48.126: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:48.128: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:48.128: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:48.128: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:48.128: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:48.128: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:48.128: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:48.440: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:48.596: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:48.596: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:48.596: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:48.596: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:48.596: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:48.596: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:48.598: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:48.598: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:48.598: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:48.598: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:48.598: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:48.598: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:48.602: I/ContentMaintenance(5050): Pruning caches...
+03-13 16:10:48.639: I/ContentMaintenance(5050): Internal cache bytes used: 0; limit: 100000000; download size: 0
+03-13 16:10:48.646: I/ContentMaintenance(5050): Cache pruning complete.
+03-13 16:10:48.652: I/ContentMaintenance(5050): Beginning garbage collection.
+03-13 16:10:48.658: I/ContentMaintenance(5050): Keeping (internal): 035a1165-bd75-4db9-a8b8-98b5404766d0
+03-13 16:10:48.661: I/ContentMaintenance(5050): Keeping (internal): cfcd6267-092e-40e2-ab3b-8cd194a5104c
+03-13 16:10:48.661: I/ContentMaintenance(5050): Keeping (internal): 00437923-5ac9-449b-85b4-a9bd1af51e32
+03-13 16:10:48.662: I/ContentMaintenance(5050): Keeping (internal): fbcbb942-8931-4f2b-b6f8-486a8632da29
+03-13 16:10:48.663: I/ContentMaintenance(5050): Keeping (internal): 2dc98f97-fa42-47f2-ab8c-57069c0b9ba2
+03-13 16:10:48.663: I/ContentMaintenance(5050): Keeping (internal): dd1351ff-5427-4d4b-8466-f6f50f6d676d
+03-13 16:10:48.663: I/ContentMaintenance(5050): Keeping (internal): a90c48bf-2443-4c1e-871b-c8d8960c6601
+03-13 16:10:48.664: I/ContentMaintenance(5050): Keeping (internal): 6ba01e98-543c-476b-a00d-fb11ec4a6d3b
+03-13 16:10:48.664: I/ContentMaintenance(5050): Keeping (internal): c901760f-eb71-49e9-ad0f-2900387b3848
+03-13 16:10:48.665: I/ContentMaintenance(5050): Keeping (internal): d99aa49a-1a71-40ab-bff8-d89e333456ee
+03-13 16:10:48.665: I/ContentMaintenance(5050): Keeping (internal): 3f26df37-80ec-481b-8458-43f30bbd6561
+03-13 16:10:48.668: I/ContentMaintenance(5050): Keeping (internal): 016a1464-2c81-4dab-be8e-b4e85c7fe5e8
+03-13 16:10:48.673: I/ContentMaintenance(5050): Keeping (internal): 9dcb628a-b213-4720-a456-136a31cb95d6
+03-13 16:10:48.679: W/ActivityManager(3188): Unable to start service Intent { cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:10:48.679: I/ContentMaintenance(5050): Keeping (internal): 59aad424-626a-4782-b5d6-c047be90d784
+03-13 16:10:48.682: I/ContentMaintenance(5050): Keeping (internal): 7b864386-849a-4960-883c-1119b92df107
+03-13 16:10:48.683: I/ContentMaintenance(5050): Keeping (internal): 937eff6b-e6c8-48d5-902d-22d4a92803f6
+03-13 16:10:48.685: I/ContentMaintenance(5050): Keeping (internal): 3a7dedac-3302-481e-b091-1772ebf78735
+03-13 16:10:48.687: I/ContentMaintenance(5050): Keeping (internal): 525f3e6d-4138-4c10-b184-72d96bca9c91
+03-13 16:10:48.689: I/ContentMaintenance(5050): Keeping (internal): 82a5f56f-99b3-4b60-bb87-72e42f9f57d4
+03-13 16:10:48.690: I/ContentMaintenance(5050): Keeping (internal): a261f627-2f71-4ffa-95ef-c94d1403f2a6
+03-13 16:10:48.692: I/ContentMaintenance(5050): Keeping (internal): f1aaba42-f535-4196-af4c-2f0ebf740362
+03-13 16:10:48.695: I/ContentMaintenance(5050): Keeping (internal): 4415fa65-f164-4bf9-bc53-1c8537b437f0
+03-13 16:10:48.698: I/ContentMaintenance(5050): Keeping (internal): a3a6cc48-a683-456d-89c0-be3a4887f203
+03-13 16:10:48.700: I/ContentMaintenance(5050): Keeping (internal): e5db637e-fd66-4432-9726-4b5f8d9039a2
+03-13 16:10:48.703: I/ContentMaintenance(5050): Keeping (internal): dc451db6-bbd0-46ad-92ef-b3ffad9cd59a
+03-13 16:10:48.706: I/ContentMaintenance(5050): Keeping (internal): e150897f-1558-42a8-ae38-18c2e590d23d
+03-13 16:10:48.708: I/ContentMaintenance(5050): Keeping (internal): a4aa53fd-6c24-4fa6-9280-36f2deaea40c
+03-13 16:10:48.715: I/ContentMaintenance(5050): Keeping (internal): 1dcf4e28-8e61-4425-95ce-852aee59356f
+03-13 16:10:48.717: I/ContentMaintenance(5050): Keeping (internal): de078635-44ba-469a-8f7b-0408605227bc
+03-13 16:10:48.720: I/ContentMaintenance(5050): Keeping (internal): df5b1289-8f1a-4e85-9342-00dd32ef7eb1
+03-13 16:10:48.722: I/ContentMaintenance(5050): Keeping (internal): cd70e23b-4889-44c6-8c91-85c6f29d0186
+03-13 16:10:48.725: I/ContentMaintenance(5050): Keeping (internal): d7891d41-7d2c-4c7e-898f-e94525d6916b
+03-13 16:10:48.729: I/ContentMaintenance(5050): Keeping (internal): dfb0d3ea-eb84-48a3-9e34-6edff5d8ac67
+03-13 16:10:48.730: I/ContentMaintenance(5050): Keeping (internal): 9d4c5548-1045-4cf2-88c8-50802bfdeb04
+03-13 16:10:48.731: I/ContentMaintenance(5050): Keeping (internal): 79071cb2-b0c5-4893-9838-3c2fa7ab2800
+03-13 16:10:48.733: I/ContentMaintenance(5050): Keeping (internal): 9ceee17b-7334-47f7-b2c5-a2a89bab22a6
+03-13 16:10:48.740: I/ContentMaintenance(5050): Keeping (internal): 692d0622-b77e-4879-bb2c-6e725566dd73
+03-13 16:10:48.740: I/ContentMaintenance(5050): Keeping (internal): f9be7cd8-11ba-40f7-b64b-47b569b0bd42
+03-13 16:10:48.741: I/ContentMaintenance(5050): Keeping (internal): 6ce74f68-30c4-4a7a-9b63-00d778508f49
+03-13 16:10:48.742: I/ContentMaintenance(5050): Keeping (internal): e6bcd30f-2190-489b-ad5e-7e921b74dce6
+03-13 16:10:48.742: I/ContentMaintenance(5050): Keeping (internal): 48de18e8-33fb-43d0-a183-c7e21a2a89a3
+03-13 16:10:48.743: I/ContentMaintenance(5050): Keeping (internal): 989e49ea-26e9-4949-9415-a253b3dee703
+03-13 16:10:48.744: I/ContentMaintenance(5050): Keeping (internal): 87ab5a12-79cf-4413-a708-8cd41a22ddee
+03-13 16:10:48.744: I/ContentMaintenance(5050): Keeping (internal): b516b040-b773-4cb6-a7cd-d27c4d450eab
+03-13 16:10:48.745: I/ContentMaintenance(5050): Keeping (internal): 5565691a-6fc3-4664-8fdd-c4353eacb666
+03-13 16:10:48.745: I/ContentMaintenance(5050): Keeping (internal): cbf3cef5-6317-429d-9f3d-c3175f463c82
+03-13 16:10:48.746: I/ContentMaintenance(5050): Keeping (internal): 7a7eb14a-0eef-4edb-b370-b11471f7a731
+03-13 16:10:48.746: I/ContentMaintenance(5050): Keeping (internal): 206eafee-3f46-4dcb-b7b5-dbec790fe8ea
+03-13 16:10:48.746: I/ContentMaintenance(5050): Keeping (internal): 1093bf38-eff4-40c6-a4e4-008d2eb33729
+03-13 16:10:48.747: I/ContentMaintenance(5050): Keeping (internal): 48d49ecb-7d12-4611-972a-a1b25e661c95
+03-13 16:10:48.747: I/ContentMaintenance(5050): Keeping (internal): 5378df7b-0d62-4bd8-8141-338cc826eced
+03-13 16:10:48.747: I/ContentMaintenance(5050): Keeping (internal): 8ec0fa9a-1bc2-4ba7-9328-1c5b9a84fbdb
+03-13 16:10:48.748: I/ContentMaintenance(5050): Keeping (internal): 381618c1-cf33-4ae4-be0e-e8d3a79f84b8
+03-13 16:10:48.748: I/ContentMaintenance(5050): Keeping (internal): de4d1d24-d8bf-4636-908a-0d4748979344
+03-13 16:10:48.749: I/ContentMaintenance(5050): Keeping (internal): cb0ae0a1-2b6b-47f5-aae9-abbb53aec04b
+03-13 16:10:48.749: I/ContentMaintenance(5050): Keeping (internal): 3c74d705-952b-408c-8214-06077f760bd6
+03-13 16:10:48.749: I/ContentMaintenance(5050): Keeping (internal): 682deb9c-5f77-47cc-8b44-fcbac02b4315
+03-13 16:10:48.750: I/ContentMaintenance(5050): Keeping (internal): 4f36deaf-04ae-401d-abb4-2da5d62bfd0d
+03-13 16:10:48.750: I/ContentMaintenance(5050): Keeping (internal): 912464a0-db6f-4143-adb5-5bc4de86f478
+03-13 16:10:48.750: I/ContentMaintenance(5050): Keeping (internal): 8b99f7f6-2f04-4c8c-bf87-7452fd571c62
+03-13 16:10:48.751: I/ContentMaintenance(5050): Keeping (internal): 3a3c7a6b-f0e5-4413-85db-ee04fc5f9ac1
+03-13 16:10:48.751: I/ContentMaintenance(5050): Keeping (internal): 603fb61d-a1a6-4036-be32-19990fc2060a
+03-13 16:10:48.751: I/ContentMaintenance(5050): Keeping (internal): c22492e1-a1bb-4f76-8a28-5d1e54882268
+03-13 16:10:48.752: I/ContentMaintenance(5050): Keeping (internal): 111f02f9-d6fc-425d-80ff-d7663dc86e46
+03-13 16:10:48.752: I/ContentMaintenance(5050): Keeping (internal): a976064a-adfb-478d-89a6-eb8d50fe41b0
+03-13 16:10:48.752: I/ContentMaintenance(5050): Keeping (internal): 8f1f4b76-63b4-45c9-88dc-cea205edf3b7
+03-13 16:10:48.753: I/ContentMaintenance(5050): Keeping (internal): 435ca9b8-b8b9-4623-ab12-b61674cddd0c
+03-13 16:10:48.753: I/ContentMaintenance(5050): Keeping (internal): 3fafabb9-66c9-478f-8ff6-a3291a201670
+03-13 16:10:48.754: I/ContentMaintenance(5050): Keeping (internal): 2bbbd136-26a6-4269-b698-050635e99b42
+03-13 16:10:48.754: I/ContentMaintenance(5050): Keeping (internal): 3f62aac0-c536-41ca-b03e-0451e8cc7d93
+03-13 16:10:48.754: I/ContentMaintenance(5050): Keeping (internal): b78adb33-4ce3-4e51-ae11-d897f4c03e21
+03-13 16:10:48.755: I/ContentMaintenance(5050): Keeping (internal): 973dc764-da72-4aeb-a287-968c82d8bfef
+03-13 16:10:48.755: I/ContentMaintenance(5050): Keeping (internal): 796cf7fd-f471-4e7d-ae08-6888dd710391
+03-13 16:10:48.755: I/ContentMaintenance(5050): Keeping (internal): d5df1f04-ec20-4dd4-afd4-b4b988489907
+03-13 16:10:48.756: I/ContentMaintenance(5050): Keeping (internal): 66d8b769-64ba-4e1e-adec-511406ecb228
+03-13 16:10:48.756: I/ContentMaintenance(5050): Keeping (internal): 254e7341-b4da-4abd-8087-caaeca13ace4
+03-13 16:10:48.756: I/ContentMaintenance(5050): Keeping (internal): ca25e1e9-c148-4ac4-ba8f-d7e4c2bd59fd
+03-13 16:10:48.757: I/ContentMaintenance(5050): Keeping (internal): a0da9093-260e-4825-863d-9dcd93ca7769
+03-13 16:10:48.757: I/ContentMaintenance(5050): Keeping (internal): 804a8eb2-64af-4c1d-b118-1eb58f387fb6
+03-13 16:10:48.758: I/ContentMaintenance(5050): Keeping (internal): 61aefd0f-26ca-4ee8-be7d-7efe3f8c1e15
+03-13 16:10:48.758: I/ContentMaintenance(5050): Keeping (internal): 91a9879b-9243-4272-8e42-95a5e4789980
+03-13 16:10:48.759: I/ContentMaintenance(5050): Keeping (internal): 5f06b0f0-0eac-4613-be84-7aa42318b29f
+03-13 16:10:48.759: I/ContentMaintenance(5050): Keeping (internal): 071a7da2-6ff3-457d-85ef-57e9c66e7571
+03-13 16:10:48.759: I/ContentMaintenance(5050): Keeping (internal): 90b07400-2878-4dfd-85df-da283c82550f
+03-13 16:10:48.760: I/ContentMaintenance(5050): Keeping (internal): 2f457b59-1209-46a7-92cd-164de9cd9e84
+03-13 16:10:48.760: I/ContentMaintenance(5050): Keeping (internal): aa598bbd-fc2a-456c-bb7d-43a739cfce4d
+03-13 16:10:48.761: I/ContentMaintenance(5050): Keeping (internal): 280978eb-dec9-461e-a2b3-c3a5daefa53b
+03-13 16:10:48.761: I/ContentMaintenance(5050): Keeping (internal): c04201ca-31e6-49fa-9018-9e40983328ec
+03-13 16:10:48.761: I/ContentMaintenance(5050): Keeping (internal): 95f59e6c-e63a-4b5b-aa46-a7720c2d7352
+03-13 16:10:48.762: I/ContentMaintenance(5050): Keeping (internal): 0ed0cfaf-813b-4afc-846c-d035195ef445
+03-13 16:10:48.762: I/ContentMaintenance(5050): Keeping (internal): fc4995d3-de70-4050-b63c-f53d7be40848
+03-13 16:10:48.763: I/ContentMaintenance(5050): Keeping (internal): 83cc600f-054e-4e90-aad1-ade75b43ab60
+03-13 16:10:48.763: I/ContentMaintenance(5050): Keeping (internal): ffe1d8e8-7977-472b-bd98-75e594123a90
+03-13 16:10:48.763: I/ContentMaintenance(5050): Keeping (internal): 8fe731f0-efdd-4edb-941a-ef5ee60a806c
+03-13 16:10:48.764: I/ContentMaintenance(5050): Keeping (internal): 8a256842-ca0e-4134-b06f-bae9c59832a8
+03-13 16:10:48.764: I/ContentMaintenance(5050): Keeping (internal): 0243db4b-275e-4592-8a02-7cbd9d7969d9
+03-13 16:10:48.764: I/ContentMaintenance(5050): Keeping (internal): 3754deb8-71f6-4146-ac8a-0b69f9a0766b
+03-13 16:10:48.765: I/ContentMaintenance(5050): Keeping (internal): 8517fc23-bc58-459d-bb50-b5e6f280a4a7
+03-13 16:10:48.765: I/ContentMaintenance(5050): Keeping (internal): 98c16d19-a198-4972-a39c-4612d4f9825b
+03-13 16:10:48.766: I/ContentMaintenance(5050): Keeping (internal): 475ce7ee-fb27-49cb-a20c-ebc0f5c866a9
+03-13 16:10:48.766: I/ContentMaintenance(5050): Keeping (internal): bc946d7b-f9d4-404c-bf09-8cae4debe80c
+03-13 16:10:48.766: I/ContentMaintenance(5050): Keeping (internal): 18046a67-945e-4299-a347-e70d93c431db
+03-13 16:10:48.767: I/ContentMaintenance(5050): Keeping (internal): 3979c885-a5f6-4dfb-b188-63d931f69a49
+03-13 16:10:48.767: I/ContentMaintenance(5050): Keeping (internal): f87cad51-c36e-4d41-b9ad-f7dcf6242d41
+03-13 16:10:48.767: I/ContentMaintenance(5050): Keeping (internal): 2cb48862-e9de-44b4-8b84-1d01940eeeb4
+03-13 16:10:48.768: I/ContentMaintenance(5050): Keeping (internal): 7068e67a-5451-4a5f-8571-98def20372bb
+03-13 16:10:48.768: I/ContentMaintenance(5050): Keeping (internal): 303f3f72-1bbe-4581-9abb-a6cdf365db16
+03-13 16:10:48.769: I/ContentMaintenance(5050): Keeping (internal): 74d22e93-a341-49af-b920-8821ac912f1a
+03-13 16:10:48.769: I/ContentMaintenance(5050): Keeping (internal): 0dda2a1a-976e-40cd-93ad-81dd47cc4781
+03-13 16:10:48.769: I/ContentMaintenance(5050): Keeping (internal): c5753a6d-22b2-45c2-8ee8-8a58f0730071
+03-13 16:10:48.770: I/ContentMaintenance(5050): Keeping (internal): 9c25f246-2fd6-416c-ad11-c8aabde9f48a
+03-13 16:10:48.770: I/ContentMaintenance(5050): Keeping (internal): 417b751e-5fa7-4f19-abfb-5a6e0a2ec98f
+03-13 16:10:48.770: I/ContentMaintenance(5050): Keeping (internal): 21175b2d-9d92-42e6-b55c-934bd554f15d
+03-13 16:10:48.771: I/ContentMaintenance(5050): Keeping (internal): c92b80a6-27f4-44cd-ba72-06c630fd489f
+03-13 16:10:48.771: I/ContentMaintenance(5050): Keeping (internal): 1eb79d88-b4b1-4f92-afde-0bca50173a6a
+03-13 16:10:48.771: I/ContentMaintenance(5050): Keeping (internal): 1ba31c98-d99a-4ef0-87d7-ace37a808aa3
+03-13 16:10:48.772: I/ContentMaintenance(5050): Keeping (internal): 729bf7e7-5a00-4894-a978-a176beb6a29f
+03-13 16:10:48.772: I/ContentMaintenance(5050): Keeping (internal): 32ceff6c-0b82-45d2-ac54-2ed7773c101c
+03-13 16:10:48.773: I/ContentMaintenance(5050): Keeping (internal): bb5b47a9-028f-4c2a-b533-1aff868cefee
+03-13 16:10:48.773: I/ContentMaintenance(5050): Keeping (internal): 3600e0f6-e737-412e-b22f-d04e7c75421d
+03-13 16:10:48.773: I/ContentMaintenance(5050): Keeping (internal): 13471025-ddab-42c6-b50e-ed71d5f03eb4
+03-13 16:10:48.774: I/ContentMaintenance(5050): Keeping (internal): 14d1799a-e1e4-49e0-a6e9-f8b6c0d21ac2
+03-13 16:10:48.774: I/ContentMaintenance(5050): Keeping (internal): 51d311c0-1c5b-40ab-8131-de9f34ce21bf
+03-13 16:10:48.775: I/ContentMaintenance(5050): Keeping (internal): bca9431e-1fa7-4d0e-87b1-585f7b2f4e1f
+03-13 16:10:48.775: I/ContentMaintenance(5050): Keeping (internal): 13d29d98-71c3-488e-b433-b5b775fc11ce
+03-13 16:10:48.776: I/ContentMaintenance(5050): Keeping (internal): 2fa36d3c-9efb-4270-b46e-686a23a5fd0f
+03-13 16:10:48.776: I/ContentMaintenance(5050): Keeping (internal): 8f382256-cefc-42d7-8a65-c037e79b92f2
+03-13 16:10:48.776: I/ContentMaintenance(5050): Keeping (internal): f9a290c4-93df-4c80-8163-b2b67a77dd62
+03-13 16:10:48.777: I/ContentMaintenance(5050): Keeping (internal): b0b22c2c-4680-4c0b-bb80-5b5be86fbd14
+03-13 16:10:48.778: I/ContentMaintenance(5050): Keeping (internal): 0345d0ce-f548-4d97-9315-f0b083bf0f98
+03-13 16:10:48.778: I/ContentMaintenance(5050): Keeping (internal): 66f483f6-d10d-4ab2-999d-f575faa2b263
+03-13 16:10:48.779: I/ContentMaintenance(5050): Keeping (internal): 64030ff2-7caf-4133-b258-2d77815291fd
+03-13 16:10:48.779: I/ContentMaintenance(5050): Keeping (internal): f2fa7dd9-fe92-4a1a-8cb7-cad38531f114
+03-13 16:10:48.779: I/ContentMaintenance(5050): Keeping (internal): b2b15764-6a7e-4ac4-913c-999eb1364332
+03-13 16:10:48.780: I/ContentMaintenance(5050): Keeping (internal): 5e8b6a00-044e-4682-b7e3-fea28547552d
+03-13 16:10:48.780: I/ContentMaintenance(5050): Keeping (internal): 39af814b-bb2a-4c5b-9fd1-f0b54edcc1cd
+03-13 16:10:48.780: I/ContentMaintenance(5050): Keeping (internal): 2d23dc72-7907-44fe-8501-8a141cb2c248
+03-13 16:10:48.781: I/ContentMaintenance(5050): Keeping (internal): 3606d0d3-ad39-4147-8f11-0762843feec6
+03-13 16:10:48.781: I/ContentMaintenance(5050): Keeping (internal): a6eb2655-88f0-4b6d-8a35-efcae08761da
+03-13 16:10:48.782: I/ContentMaintenance(5050): Keeping (internal): ff533d86-e001-4162-a7ff-3a026a5101d5
+03-13 16:10:48.782: I/ContentMaintenance(5050): Keeping (internal): 9146a309-d6f6-4e5b-8cde-f25d6dcf1ae0
+03-13 16:10:48.782: I/ContentMaintenance(5050): Keeping (internal): 002d4393-c2bd-4057-b485-749e671a4e5a
+03-13 16:10:48.783: I/ContentMaintenance(5050): Keeping (internal): 5c2f4d3e-5abf-448f-9165-1d3747beb9fb
+03-13 16:10:48.783: I/ContentMaintenance(5050): Keeping (internal): 4ffa2fb3-0939-45fc-b4dd-e2d731cdcb86
+03-13 16:10:48.783: I/ContentMaintenance(5050): Keeping (internal): dbb451e0-c231-4364-af04-2b75036b5438
+03-13 16:10:48.784: I/ContentMaintenance(5050): Keeping (internal): f27d26ee-b796-40b5-a1e1-3858a51d94ba
+03-13 16:10:48.784: I/ContentMaintenance(5050): Keeping (internal): 64b7ba69-74a9-45cf-b22f-01b3fb837d84
+03-13 16:10:48.784: I/ContentMaintenance(5050): Keeping (internal): a953135b-ae31-4143-a49d-893d8bdbfa72
+03-13 16:10:48.785: I/ContentMaintenance(5050): Keeping (internal): aa162d4a-62ea-4dca-bf17-75f07f3b76eb
+03-13 16:10:48.785: I/ContentMaintenance(5050): Keeping (internal): f1d03261-7953-4c2c-b8e7-361f6a3115b2
+03-13 16:10:48.786: I/ContentMaintenance(5050): Keeping (internal): 636ada3e-aed2-41ff-aa34-29720453dc80
+03-13 16:10:48.786: I/ContentMaintenance(5050): Keeping (internal): c654e42b-4344-43e0-838e-5049237f48d5
+03-13 16:10:48.786: I/ContentMaintenance(5050): Keeping (internal): 8f779006-0acf-439e-85fe-569a5a48cbdf
+03-13 16:10:48.787: I/ContentMaintenance(5050): Keeping (internal): d83d78ab-4335-475f-b0ed-eed4b31ec81f
+03-13 16:10:48.787: I/ContentMaintenance(5050): Keeping (internal): 63d06886-694e-4823-a4b4-8d068afaaf29
+03-13 16:10:48.787: I/ContentMaintenance(5050): Keeping (internal): bcc8410b-289d-41de-a3d5-d79588d2a79f
+03-13 16:10:48.788: I/ContentMaintenance(5050): Keeping (internal): 28145ca4-863a-4320-b20b-1cb1a02de899
+03-13 16:10:48.788: I/ContentMaintenance(5050): Keeping (internal): d4c29a87-3b2b-48aa-acf5-e90320c5e089
+03-13 16:10:48.788: I/ContentMaintenance(5050): Keeping (internal): bb766b36-41d5-48b4-882c-54f166188eaa
+03-13 16:10:48.794: I/RealtimeCacheCleanup(5050): Beginning Realtime garbage collection.
+03-13 16:10:48.795: I/RealtimeCacheCleanup(5050): Finished Realtime garbage collection.
+03-13 16:10:48.795: I/ContentMaintenance(5050): Finished garbage collection.
+03-13 16:10:49.009: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:49.168: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:49.174: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:49.174: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:49.174: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:49.174: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:49.174: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:49.174: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:49.176: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:49.176: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:49.176: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:49.176: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:49.176: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:49.176: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:49.352: I/art(5050): Background sticky concurrent mark sweep GC freed 47857(2MB) AllocSpace objects, 2(32KB) LOS objects, 13% free, 21MB/24MB, paused 7.897ms total 37.934ms
+03-13 16:10:49.547: I/OneSignal(6640): session sent, UserId = 61cd1601-bff2-4397-af76-35031d3907e0
+03-13 16:10:49.674: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:49.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:49.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:49.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:49.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:49.683: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:49.684: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:49.685: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:49.686: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:49.802: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:49.802: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:49.802: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:49.802: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:49.802: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:49.802: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:49.804: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:49.804: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:49.804: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:49.804: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:49.804: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:49.804: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:49.804: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:50.157: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:50.198: I/PendingContent(5050): Deleted duplicate successfully: bcc8410b-289d-41de-a3d5-d79588d2a79f
+03-13 16:10:50.248: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:10:50.303: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:50.303: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:50.303: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:50.303: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:50.303: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:50.303: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:50.304: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:50.304: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:50.304: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:50.304: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:50.304: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:50.304: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:50.360: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:50.452: I/art(5050): Compiler allocated 4MB to compile void orz.a(osk, qbf, ouv, java.lang.String)
+03-13 16:10:50.536: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:50.753: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:50.756: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:50.900: I/PendingContent(5050): Deleted duplicate successfully: 33c0b517-7357-4f6a-bd02-907e9e9f4953
+03-13 16:10:50.994: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:10:51.041: W/ActivityManager(3188): Unable to start service Intent { act=com.google.android.gms.drive.ApiService.STOP cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:10:51.086: W/ActivityManager(3188): Unable to start service Intent { cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:10:52.128: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:10:52.131: V/BoostFramework(6640): mAcquireFunc method = public int com.qualcomm.qti.Performance.perfLockAcquire(int,int[])
+03-13 16:10:52.131: V/BoostFramework(6640): mReleaseFunc method = public int com.qualcomm.qti.Performance.perfLockRelease()
+03-13 16:10:52.131: V/BoostFramework(6640): mAcquireTouchFunc method = public int com.qualcomm.qti.Performance.perfLockAcquireTouch(android.view.MotionEvent,android.util.DisplayMetrics,int,int[])
+03-13 16:10:52.132: V/BoostFramework(6640): mIOPStart method = public int com.qualcomm.qti.Performance.perfIOPrefetchStart(int,java.lang.String)
+03-13 16:10:52.132: V/BoostFramework(6640): mIOPStop method = public int com.qualcomm.qti.Performance.perfIOPrefetchStop()
+03-13 16:10:52.136: V/BoostFramework(6640): BoostFramework() : mPerf = com.qualcomm.qti.Performance@e9653a5
+03-13 16:10:52.492: I/art(5050): Do partial code cache collection, code=2MB, data=2MB
+03-13 16:10:52.494: I/art(5050): After code cache collection, code=2MB, data=2MB
+03-13 16:10:52.494: I/art(5050): Increasing code cache capacity to 6MB
+03-13 16:10:52.496: I/art(5050): Compiler allocated 4MB to compile int qge.b(osm, otj, long, boolean)
+03-13 16:10:53.096: W/ActivityManager(3188): Unable to start service Intent { act=com.google.android.gms.drive.ApiService.STOP cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:10:53.163: V/GamesNativeSDK(6640): Detaching from JVM on thread main_dispatch
+03-13 16:10:53.676: V/GamesNativeSDK(6640): Snapshot was not committed, discarding.
+03-13 16:10:53.678: V/GamesNativeSDK(6640): Attached to JVM on thread main_dispatch
+03-13 16:10:53.684: V/GamesNativeSDK(6640): Snapshot discard complete.
+03-13 16:10:53.784: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:53.796: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:54.680: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:54.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:54.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:54.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:54.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:54.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:54.682: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:54.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:55.018: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:40,ssid="Aquiris"
+03-13 16:10:55.018: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-64,lastModified=03-13 04:10:40,ssid="Aquiris"
+03-13 16:10:55.019: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:55.019: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:55.020: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:55.020: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:55.021: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:55.021: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:55.022: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:55.023: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:10:55.023: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:55.025: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:55.693: I/Finsky(3959): [405] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:55.696: W/IabHelper(6640): In-app billing warning: No registered Consumable Products!
+03-13 16:10:55.703: I/Finsky(3959): [449] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:55.745: D/[TELESERVICE][AsusPhoneUtils](4428): isVerizon(): ret = false
+03-13 16:10:55.779: W/Finsky(3959): [1] com.google.android.finsky.billing.a.j.a(48): Got an exception trying to get proto method: java.lang.NoSuchMethodException: getFingerprintValid []
+03-13 16:10:55.781: W/Finsky(3959): [1] com.google.android.finsky.billing.a.j.a(48): Got an exception trying to get proto method: java.lang.NoSuchMethodException: getDesiredAuthMethod []
+03-13 16:10:55.781: W/Finsky(3959): [1] com.google.android.finsky.billing.a.j.a(48): Got an exception trying to get proto method: java.lang.NoSuchMethodException: getAuthFrequency []
+03-13 16:10:55.782: W/Finsky(3959): [1] com.google.android.finsky.billing.a.j.a(48): Got an exception trying to get proto method: java.lang.NoSuchMethodException: getUserHasFop []
+03-13 16:10:55.782: I/Finsky(3959): [1] com.google.android.finsky.billing.a.k.run(33): Skipping a request to /bulkAcquire since cache has all the records.
+03-13 16:10:55.783: I/Finsky(3959): [406] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:55.788: I/Finsky(3959): [449] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:55.817: D/wpa_supplicant(4173): wlan0: BSS: Remove id 2678 BSSID 9c:a9:e4:90:4e:1b SSID 'Vivo-Internet-4E1B' due to wpa_bss_flush_by_age
+03-13 16:10:55.817: D/wpa_supplicant(4173): CTRL-DEBUG: ctrl_sock-sendmsg: sock=8 sndbuf=229376 outq=0 send_len=45
+03-13 16:10:55.817: D/wpa_supplicant(4173): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_3188-2\x00
+03-13 16:10:56.020: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-64,lastModified=03-13 04:10:55,ssid="Aquiris"
+03-13 16:10:56.020: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:55,ssid="Aquiris"
+03-13 16:10:56.020: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:56.020: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:56.021: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:56.021: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:56.023: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:56.023: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:56.023: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:56.024: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:10:56.024: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:56.025: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:56.202: V/com.facebook.unity.FB(6640): SetUserAgentSuffix(Unity.7.10.0)
+03-13 16:10:56.216: V/com.facebook.unity.FB(6640): Init({"appId":"787744434674285"})
+03-13 16:10:56.241: I/Unity(6640): Using Facebook Unity SDK v7.10.0 with FBAndroidSDK/4.23.0
+03-13 16:10:56.249: D/com.facebook.unity.FB(6640): KeyHash: e+usZSCkDouNPKDkOETbFq2EeRc=
+03-13 16:10:56.259: V/com.facebook.unity.FB(6640): sending to Unity OnInitComplete({"access_token":"EAALMcwsz2m0BAMcrCelwZBM9wdgsekVwPxK8Pt9wiBgJZBz0B9IPZBl6JbmH5LKavyZAmERDGZBRiZB4nZCNkCtFxCPKLk0BtiG4pTCEfG259XZCKAND81ql8XIZBdmw5HpU8gEtgE1PCFT3y4bdHStSGyCXkJP73kIJwrLQNXsrVQ2xnP458tlvdINkUvDODC1ZBmVSmZCbDn8ndig8RDQvQqFxrsCxnQCZAIcZD","key_hash":"e+usZSCkDouNPKDkOETbFq2EeRc=\n","opened":true,"permissions":"public_profile,user_friends,email","expiration_timestamp":"1526069069","last_refresh":"1520967991","user_id":"10157171761672468","declined_permissions":""})
+03-13 16:10:56.815: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:56.818: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:56.847: I/Unity(6640): [F2PManager] Retrieved billing products list. Found 1 products.
+03-13 16:10:56.849: I/Unity(6640):  - Name:Full Game Unlock (Horizon Chase - World Tour) Id:hc_full_game_unlock Price:9.99
+03-13 16:10:56.853: I/Finsky(3959): [405] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:56.858: W/IabHelper(6640): In-app billing warning: No registered Consumable Products!
+03-13 16:10:56.862: I/Finsky(3959): [406] com.google.android.finsky.billing.iab.ab.b(31): com.aquiris.horizonchase: Account determined from installer data - [GSAMwyLwV0HEdC7qXFO-pEWgFTM]
+03-13 16:10:56.939: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:57.064: W/SnapshotAgent(5050): Found conflict for snapshot horizon_cloud_save
+03-13 16:10:57.133: V/ReflectionMethods(4222): ========ReflectionMethods.getAsusLevel = 4 ========
+03-13 16:10:57.133: D/NetworkController.MobileSignalController(1)(4222): onSignalStrengthsChanged signalStrength=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -105 -12 74 2147483647 2147483647 gsm|lte level=4
+03-13 16:10:57.133: D/NetworkController.MobileSignalController(1)(4222): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -105 -12 74 2147483647 2147483647 gsm|lte
+03-13 16:10:57.135: D/PhoneInterfaceManager(4428): isWifiCallingAvailable: sub Id : 1
+03-13 16:10:57.135: D/NetworkController.MobileSignalController(1)(4222): isWifiCallingAvailable=false
+03-13 16:10:57.137: D/PhoneInterfaceManager(4428): isVolteAvailable: sub Id : 1
+03-13 16:10:57.138: V/ReflectionMethods(4222): ========ReflectionMethods.getVolteAvailable = false ===============
+03-13 16:10:57.139: D/PhoneInterfaceManager(4428): isVideoTelephonyAvailable: sub Id : 1
+03-13 16:10:57.139: I/Unity(6640): [F2PManager] Transaction finished event. Checking 1 transactions...
+03-13 16:10:57.139: V/ReflectionMethods(4222): ========ReflectionMethods.getVideoTelephonyAvailable = false ===============
+03-13 16:10:57.143: I/Unity(6640): [F2PManager]     Checking transaction: [BillingTransaction: ProductIdentifier=hc_full_game_unlock, TransactionDateUTC=12/30/2017 20:50:36, TransactionIdentifier=GPA.3344-0163-2222-28734, TransactionState=RESTORED, VerificationState=SUCCESS, Error=]
+03-13 16:10:57.143: I/Unity(6640): [F2PManager]     RESTORED (Receipt: NHHqZguxxGgUQuqG8FvB1s6VEdxLVLOssRQxtiRYwi6VGSmRLByD7usT+8BB1iNHib2eFhPepO2G+UniSRrC+nR1LA+T/h28zxVIYGds5VUr+vrgJH605NEGNn8xm6ok0F8kgzGrju2UCQ3ssGyPiZUi0EpumHmGTWy3xFdIwhDTD9RiwqKdyso05yUoiB2Ne68Jf0Ez5jCIV58opFNPCGEJKVB685juwSpUTB2nnEitRHrG4ZARaYl3oV9mA9v++sXA8Lp71UhxP4RDV+OyVVG94UYQ3/ommTLRVO3b8H6loYCqUfJRkZS51ICOS1k+w3GkHR7Yw9ob6rOvmsjV/g==)
+03-13 16:10:57.447: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:57.862: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[4946]
+03-13 16:10:57.947: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:57.947: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:57.947: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:57.947: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:57.947: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:57.947: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:57.948: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:57.948: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:57.948: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:57.948: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:57.948: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:57.948: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:58.303: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:58.443: W/SnapshotAgent(5050): Found conflict for snapshot horizon_cloud_save
+03-13 16:10:58.614: W/WindowOrientationListener(3188): proposedRotation = 1
+03-13 16:10:58.615: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:10:58.928: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:59.314: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[4946]
+03-13 16:10:59.378: V/ReflectionMethods(4222): ========ReflectionMethods.getAsusLevel = 4 ========
+03-13 16:10:59.378: D/NetworkController.MobileSignalController(1)(4222): onSignalStrengthsChanged signalStrength=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -106 -12 62 2147483647 2147483647 gsm|lte level=4
+03-13 16:10:59.378: D/NetworkController.MobileSignalController(1)(4222): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -106 -12 62 2147483647 2147483647 gsm|lte
+03-13 16:10:59.380: D/PhoneInterfaceManager(4428): isWifiCallingAvailable: sub Id : 1
+03-13 16:10:59.381: D/NetworkController.MobileSignalController(1)(4222): isWifiCallingAvailable=false
+03-13 16:10:59.383: D/PhoneInterfaceManager(4428): isVolteAvailable: sub Id : 1
+03-13 16:10:59.384: V/ReflectionMethods(4222): ========ReflectionMethods.getVolteAvailable = false ===============
+03-13 16:10:59.391: D/PhoneInterfaceManager(4428): isVideoTelephonyAvailable: sub Id : 1
+03-13 16:10:59.392: V/ReflectionMethods(4222): ========ReflectionMethods.getVideoTelephonyAvailable = false ===============
+03-13 16:10:59.415: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:59.415: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:59.415: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:59.415: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:59.415: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:59.415: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:59.416: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:10:59.416: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:10:59.416: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:10:59.416: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:10:59.416: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:10:59.416: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:10:59.680: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:59.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:59.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:59.681: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:59.682: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:10:59.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:10:59.682: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:10:59.683: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:10:59.836: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:10:59.838: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:10:59.841: D/NetworkController(4222): onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+03-13 16:10:59.842: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-64,lastModified=03-13 04:10:56,ssid="Aquiris"
+03-13 16:10:59.842: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-67,lastModified=03-13 04:10:56,ssid="Aquiris"
+03-13 16:10:59.842: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:59.842: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:59.844: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838972 inout=2130838945
+03-13 16:10:59.844: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:10:59.844: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:59.846: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:59.846: D/SignalClusterView(4222): vpn: GONE
+03-13 16:10:59.847: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:10:59.847: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838972 inout=2130838945
+03-13 16:10:59.848: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:10:59.849: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:10:59.989: W/SnapshotAgent(5050): Found conflict for snapshot horizon_cloud_save
+03-13 16:11:00.007: D/KeyguardUpdateMonitor(4222): received broadcast android.intent.action.TIME_TICK
+03-13 16:11:00.007: D/KeyguardUpdateMonitor(4222): handleTimeUpdate
+03-13 16:11:00.008: I/keyguard(4222): AsusFirstKGUnlockedMonitor:getSettingsForFirstKGUnlocked()  settings: true
+03-13 16:11:00.013: D/StatusBar.Clock(4222): Receive ACTION_TIME_TICK
+03-13 16:11:00.028: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.046: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.048: D/AnimationIconReceiver(5157): get app package name: com.asus.deskclock class name: com.asus.deskclock.DeskClock size: 192
+03-13 16:11:00.048: W/Launcher(5157): setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@91b8a54 new=com.android.launcher3.LauncherApplication@91b8a54
+03-13 16:11:00.075: D/StatusBar.Clock(4222): Receive ACTION_TIME_TICK
+03-13 16:11:00.102: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.104: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.106: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.108: I/TextClock(4222): receiver IsAlwaysOnEnable= false
+03-13 16:11:00.122: D/AnimationIconReceiver(5157): update icon to DB - pkg: com.asus.deskclock clz: com.asus.deskclock.DeskClock isEnable: true
+03-13 16:11:00.122: D/AnimationIconReceiver(5157): get animation icon but doesn't flush immediately because mUseInstallQueue: true launcherNotLoaded: false
+03-13 16:11:00.327: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:00.709: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[4946]
+03-13 16:11:00.829: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:00.829: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:00.829: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:00.829: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:00.829: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:00.829: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:00.837: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:00.837: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:00.837: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:00.837: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:00.837: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:00.837: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:01.204: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:01.348: W/SnapshotAgent(5050): Found conflict for snapshot horizon_cloud_save
+03-13 16:11:01.890: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:01.897: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:01.987: I/Unity(6640): [RestorePurchaseHelper] Game restored: True
+03-13 16:11:02.311: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[4946]
+03-13 16:11:02.391: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:02.391: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:02.391: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:02.391: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:02.391: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:02.391: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:02.393: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:02.393: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:02.393: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:02.393: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:02.393: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:02.393: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:02.873: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:02.885: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:11:02.890: D/NetworkController(4222): onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+03-13 16:11:02.892: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=3,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-67,lastModified=03-13 04:10:59,ssid="Aquiris"
+03-13 16:11:02.892: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-61,lastModified=03-13 04:10:59,ssid="Aquiris"
+03-13 16:11:02.893: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:02.893: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:02.893: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:11:02.893: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:02.894: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:02.895: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:02.895: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:02.895: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:11:02.895: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:02.896: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:03.095: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:03.497: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:11:03.528: I/PendingContent(5050): Deleted duplicate successfully: aa6d6051-19a4-416b-8afa-d6e9cff4b647
+03-13 16:11:03.660: W/ActivityManager(3188): Unable to start service Intent { cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:11:03.747: W/ActivityManager(3188): Unable to start service Intent { cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:11:04.281: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:04.365: I/Unity(6640): [RestorePurchaseHelper] Game restored: True
+03-13 16:11:04.486: D/DnsEventListenerService(3188): Logging 100 results for netId 126
+03-13 16:11:04.683: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:04.684: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:04.684: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:04.684: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:04.684: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:04.685: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:04.685: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:04.685: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:05.202: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:05.333: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:11:05.346: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:05.346: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:05.346: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:05.346: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:05.346: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:05.346: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:05.348: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:05.348: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:05.348: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:05.348: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:05.348: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:05.348: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:05.390: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:05.475: I/Unity(6640): [RestorePurchaseHelper] Game restored: True
+03-13 16:11:05.798: E/Volley(5050): [229] BasicNetwork.performRequest: Unexpected response code 404 for https://www.googleapis.com/drive/v2internal/files/1Qgec8Kv7Xn6GlAYfh-mX6RaW8p_Gg96rg00hQm5fzhpxkUfL?prettyPrint=false&fields=owners(isAuthenticatedUser,picture(url),displayName,permissionId,emailAddress),spaces,webContentLink,lastModifyingUser(isAuthenticatedUser,picture(url),displayName,permissionId,emailAddress),originalFilename,headRevisionId,fileExtension,id,recencyReason,folderColorRgb,version,webViewLink,indexableText(text),editable,gplusMedia,quotaBytesUsed,properties(key,value,appId,visibility),writersCanShare,sharedWithMeDate,explicitlyTrashed,shared,authorizedAppIds,parents(isRoot,id),thumbnailLink,creatorAppId,modifiedByMeDate,labels(restricted,trashed,starred,viewed),appDataContents,md5Checksum,localId(value,space,version),thumbnail(mimeType,image),ownerNames,sharingUser(isAuthenticatedUser,picture(url),displayName,permissionId,emailAddress),copyable,modifiedDate,userPermission(id,role,withLink,domain,name,additionalRoles,value,type,emailAddress,photoLink),etag,recency,createdDate,alternateLink,mimeType,lastViewedByMeDate,folderFeatures,description,title,fileSize,downloadUrl,embedLink,subscribed&acknowledgeAbuse=false&allProperties=true&fileScopeAppIds=57748583812&updateViewedDate=false
+03-13 16:11:05.801: W/NetworkResponseErrorDec(5050): StatusCode:404 Reason:[notFound] Location:[file]
+03-13 16:11:05.909: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:05.912: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:11:05.914: E/AsyncOperation(5050): serviceID=11, operation=ono
+03-13 16:11:05.914: E/AsyncOperation(5050): OperationException[Status{statusCode=Drive item not found, or you are not authorized to access it., resolution=null}]
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at olm.l(com.google.android.gms@12218448@12.2.18 (448-186640880))
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at olm.b(com.google.android.gms@12218448@12.2.18 (448-186640880):9)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at olm.b(com.google.android.gms@12218448@12.2.18 (448-186640880):13)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at olm.a(com.google.android.gms@12218448@12.2.18 (448-186640880):126)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at ono.b(com.google.android.gms@12218448@12.2.18 (448-186640880):9)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at omk.a(com.google.android.gms@12218448@12.2.18 (448-186640880):16)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at tul.run(com.google.android.gms@12218448@12.2.18 (448-186640880):18)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at njk.run(com.google.android.gms@12218448@12.2.18 (448-186640880):26)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at npg.run(com.google.android.gms@12218448@12.2.18 (448-186640880))
+03-13 16:11:05.914: E/AsyncOperation(5050): 	at java.lang.Thread.run(Thread.java:761)
+03-13 16:11:05.914: E/SnapshotAgent(5050): Conflict not found when resolving conflict DriveId:CAESMTFRZ2VjOEt2N1huNkdsQVlmaC1tWDZSYVc4cF9HZzk2cmcwMGhRbTVmemhweGtVZkwYpE0g1OnaMSgA
+03-13 16:11:05.916: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:05.916: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:05.916: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:05.916: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:05.916: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:05.916: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:05.918: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:05.918: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:05.918: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:05.918: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:05.918: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:05.918: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:05.921: W/GamesNativeSDK(6640): Converting an invalid BaseStatus (ERROR_SNAPSHOT_CONFLICT_MISSING) to a ResponseStatus.
+03-13 16:11:06.002: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:11:06.054: W/ActivityManager(3188): Unable to start service Intent { act=com.google.android.gms.drive.ApiService.STOP cmp=com.google.android.gms/.drive.api.ApiService } U=0: not found
+03-13 16:11:06.395: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:06.523: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:11:06.529: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:06.529: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:06.529: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:06.529: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:06.529: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:06.529: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:06.530: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:06.530: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:06.530: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:06.530: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:06.530: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:06.530: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:06.927: I/ContentDownloadManager(5050): Up-to-date file is already available locally: EntrySpec[3834]
+03-13 16:11:07.072: V/eagle(2846): eagle pipeline proc call 213000 (size =1920, inCh=3, outCh=3, android fmt in=5, out=3) ret 0 
+03-13 16:11:07.076: W/GamesServiceBroker(5050): Client connected with SDK 12605000, Services 12218448, and Games 55810048
+03-13 16:11:07.079: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:07.079: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:07.079: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:07.079: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:07.079: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:07.079: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:07.080: W/AppOps(3188): Bad call: specified package com.google.android.play.games under uid 10168 but it is really 10144
+03-13 16:11:07.080: W/AppOps(3188): java.lang.RuntimeException: here
+03-13 16:11:07.080: W/AppOps(3188): 	at com.android.server.AppOpsService.getOpsRawLocked(AppOpsService.java:1379)
+03-13 16:11:07.080: W/AppOps(3188): 	at com.android.server.AppOpsService.checkPackage(AppOpsService.java:1053)
+03-13 16:11:07.080: W/AppOps(3188): 	at com.android.internal.app.IAppOpsService$Stub.onTransact(IAppOpsService.java:169)
+03-13 16:11:07.080: W/AppOps(3188): 	at android.os.Binder.execTransact(Binder.java:565)
+03-13 16:11:07.717: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:08.039: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-61,lastModified=03-13 04:11:02,ssid="Aquiris"
+03-13 16:11:08.039: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:02,ssid="Aquiris"
+03-13 16:11:08.040: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:08.040: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:08.040: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:08.041: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:08.043: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:08.043: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:08.043: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:08.044: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:08.044: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:08.046: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:08.945: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:08.949: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:11:09.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:09.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:09.682: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:09.683: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:09.683: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:09.683: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:09.684: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:09.684: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:09.901: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:10.044: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:08,ssid="Aquiris"
+03-13 16:11:10.044: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-61,lastModified=03-13 04:11:08,ssid="Aquiris"
+03-13 16:11:10.044: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:10.045: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:10.045: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:11:10.046: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:10.048: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:10.048: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:10.049: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:10.049: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838945
+03-13 16:11:10.050: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:10.051: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:10.384: V/GamesNativeSDK(6640): Detaching from JVM on thread main_dispatch
+03-13 16:11:10.570: V/GamesNativeSDK(6640): Snapshot was not committed, discarding.
+03-13 16:11:10.571: V/GamesNativeSDK(6640): Snapshot was not committed, discarding.
+03-13 16:11:10.571: V/GamesNativeSDK(6640): Snapshot was not committed, discarding.
+03-13 16:11:10.571: V/GamesNativeSDK(6640): Attached to JVM on thread main_dispatch
+03-13 16:11:10.576: V/GamesNativeSDK(6640): Snapshot discard complete.
+03-13 16:11:10.655: E/GamesNativeSDK(6640): Exception in com/google/android/gms/games/snapshot/Snapshots.discardAndClose: java.lang.NullPointerException: Attempt to invoke interface method 'boolean com.google.android.gms.games.snapshot.SnapshotContents.isClosed()' on a null object reference.
+03-13 16:11:10.655: V/GamesNativeSDK(6640): Snapshot discard complete.
+03-13 16:11:10.660: V/GamesNativeSDK(6640): Snapshot discard complete.
+03-13 16:11:11.944: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:11.978: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:11.993: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:11:13.048: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-61,lastModified=03-13 04:11:10,ssid="Aquiris"
+03-13 16:11:13.048: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:10,ssid="Aquiris"
+03-13 16:11:13.048: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:13.048: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:13.049: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:13.049: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:13.051: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:13.051: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:13.051: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:13.052: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:13.052: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:13.054: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:13.602: E/IzatSvc_PassiveLocListener(3188): E/Exiting with error virtual void izat_manager::IzatPassiveLocationListener::onLocationChanged(const izat_manager::IzatLocation *, const IzatLocationStatus) line 172 "1"
+03-13 16:11:14.050: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:13,ssid="Aquiris"
+03-13 16:11:14.050: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-61,lastModified=03-13 04:11:13,ssid="Aquiris"
+03-13 16:11:14.050: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:14.051: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:14.052: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:11:14.052: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:14.054: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:14.054: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:14.054: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:14.055: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:11:14.056: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:14.058: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:14.681: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU2 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:14.682: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU2 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:14.682: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU3 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:14.683: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU3 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:14.683: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU0 [P:0] to CPU6 [P:1] (banned)
+03-13 16:11:14.684: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU0 [P:0] to CPU5 [P:1] (banned)
+03-13 16:11:14.684: I/MSM-irqbalance(2367): Decided to move IRQ3 from CPU1 [P:0] to CPU7 [P:1] (banned)
+03-13 16:11:14.686: I/MSM-irqbalance(2367): Decided to move IRQ5 from CPU1 [P:0] to CPU4 [P:1] (banned)
+03-13 16:11:15.027: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:15.039: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+03-13 16:11:15.052: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-61,lastModified=03-13 04:11:14,ssid="Aquiris"
+03-13 16:11:15.052: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:14,ssid="Aquiris"
+03-13 16:11:15.052: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:15.052: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:15.053: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:15.054: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:15.055: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:15.056: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:15.056: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:15.057: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838944
+03-13 16:11:15.057: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:15.059: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:15.449: E/ANDR-PERF-MPCTL(2262): Invalid profile no. 0, total profiles 0 only
+03-13 16:11:15.661: V/GamesNativeSDK(6640): Detaching from JVM on thread main_dispatch
+03-13 16:11:16.232: W/LogHelper(10529): type=1400 audit(0.0:339): avc: denied { read } for name="mem" dev="debugfs" ino=52184 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+03-13 16:11:16.232: W/LogHelper(10529): type=1400 audit(0.0:340): avc: denied { read } for name="mem" dev="debugfs" ino=52184 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+03-13 16:11:16.245: I/e(5157): {"total_pss":68113,"total_uss":47036,"dalvikPrivateClean":0,"dalvikPrivateDirty":18420,"dalvikPss":18465,"dalvikSharedClean":0,"dalvikSharedDirty":1428,"nativePrivateClean":0,"nativePrivateDirty":16204,"nativePss":16420,"nativeSharedClean":0,"nativeSharedDirty":1752,"nativeSwappablePss":0,"nativeSwappedOut":5224,"otherPrivateClean":3316,"otherPrivateDirty":9096,"otherPss":18587,"time":1520967976005}
+03-13 16:11:17.613: V/ReflectionMethods(4222): ========ReflectionMethods.getAsusLevel = 4 ========
+03-13 16:11:17.613: D/NetworkController.MobileSignalController(1)(4222): onSignalStrengthsChanged signalStrength=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -107 -12 96 2147483647 2147483647 gsm|lte level=4
+03-13 16:11:17.613: D/NetworkController.MobileSignalController(1)(4222): updateTelephonySignalStrength: hasService=true ss=SignalStrength: 99 0 0 -120 -160 -120 -1 -1 15 -107 -12 96 2147483647 2147483647 gsm|lte
+03-13 16:11:17.617: D/PhoneInterfaceManager(4428): isWifiCallingAvailable: sub Id : 1
+03-13 16:11:17.618: D/NetworkController.MobileSignalController(1)(4222): isWifiCallingAvailable=false
+03-13 16:11:17.620: D/PhoneInterfaceManager(4428): isVolteAvailable: sub Id : 1
+03-13 16:11:17.621: V/ReflectionMethods(4222): ========ReflectionMethods.getVolteAvailable = false ===============
+03-13 16:11:17.626: D/PhoneInterfaceManager(4428): isVideoTelephonyAvailable: sub Id : 1
+03-13 16:11:17.627: V/ReflectionMethods(4222): ========ReflectionMethods.getVideoTelephonyAvailable = false ===============
+03-13 16:11:18.058: D/NetworkController.WifiSignalController(4222): Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-61,lastModified=03-13 04:11:15,ssid="Aquiris"
+03-13 16:11:18.058: D/NetworkController.WifiSignalController(4222): 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-61,lastModified=03-13 04:11:15,ssid="Aquiris"
+03-13 16:11:18.058: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:18.059: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:18.059: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:11:18.060: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:18.062: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:18.062: D/SignalClusterView(4222): vpn: GONE
+03-13 16:11:18.063: D/SignalClusterView(4222): ethernet: GONE sig=0 inout=0
+03-13 16:11:18.067: D/SignalClusterView(4222): wifi: VISIBLE sig=2130838974 inout=2130838946
+03-13 16:11:18.070: D/SignalClusterView(4222): wigig: GONE sig=2130838981 inout=2130838946
+03-13 16:11:18.072: D/SignalClusterView(4222): mobile: VISIBLE sig=2130838940 typ=0 inout=0c
+03-13 16:11:18.073: D/wpa_supplicant(4173): wlan0: Control interface command 'SIGNAL_POLL'
+03-13 16:11:18.085: D/wpa_supplicant(4173): CTRL-DEBUG: global_ctrl_sock-sendto: sock=8 sndbuf=229376 outq=0 send_len=48
+: E/(): Device disconnected
